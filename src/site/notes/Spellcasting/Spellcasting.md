@@ -4,6 +4,12 @@
 
 [[DnD-5E-SRD|DnD-5E-SRD]]
 # Spellcasting
+- [[Spellcasting/Cantrips|Cantrips]]
+- [[Spellcasting/Casting a Spell|Casting a Spell]]
+- [[Spellcasting/Combining Magical Effects|Combining Magical Effects]]
+- [[Spellcasting/Rituals|Rituals]]
+- [[Spellcasting/Spell Attack Rolls|Spell Attack Rolls]]
+- [[Spellcasting/Spell Saving Throws|Spell Saving Throws]]
 
 Magic permeates fantasy gaming worlds and often appears in the form of a spell.
 

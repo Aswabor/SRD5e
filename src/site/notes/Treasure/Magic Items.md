@@ -3,9 +3,40 @@
 ---
 
 [[Treasure/Treasure|Treasure]]
+
+- [[Treasure/Magic Items#Magic Items|Magic Items]]
+	- [[Treasure/Magic Items#A|A]]
+	- [[Treasure/Magic Items#B|B]]
+	- [[Treasure/Magic Items#C|C]]
+	- [[Treasure/Magic Items#D|D]]
+	- [[Treasure/Magic Items#E|E]]
+	- [[Treasure/Magic Items#F|F]]
+	- [[Treasure/Magic Items#G|G]]
+	- [[Treasure/Magic Items#H|H]]
+	- [[Treasure/Magic Items#I|I]]
+	- [[Treasure/Magic Items#J|J]]
+	- [[Treasure/Magic Items#K|K]]
+	- [[Treasure/Magic Items#L|L]]
+	- [[Treasure/Magic Items#M|M]]
+	- [[Treasure/Magic Items#N|N]]
+	- [[Treasure/Magic Items#O|O]]
+	- [[Treasure/Magic Items#P|P]]
+	- [[Treasure/Magic Items#Q|Q]]
+	- [[Treasure/Magic Items#R|R]]
+	- [[Treasure/Magic Items#S|S]]
+	- [[Treasure/Magic Items#T|T]]
+	- [[Treasure/Magic Items#U|U]]
+	- [[Treasure/Magic Items#V|V]]
+	- [[Treasure/Magic Items#W|W]]
+	- [[Treasure/Magic Items#X|X]]
+	- [[Treasure/Magic Items#Y|Y]]
+	- [[Treasure/Magic Items#Z|Z]]
+
+
 # Magic Items
 Magic items are presented in alphabetical order. A magic item's description gives the item's name, its category, its rarity, and its magical properties.
 
+## A
 - [[Treasure/Adamantine Armor|Adamantine Armor]]
 - [[Treasure/Ammunition, +1, +2, or +3|Ammunition, +1, +2, or +3]]
 - [[Treasure/Amulet of Health|Amulet of Health]]
@@ -19,7 +50,7 @@ Magic items are presented in alphabetical order. A magic item's description give
 - [[Treasure/Armor of Vulnerability|Armor of Vulnerability]]
 - [[Treasure/Arrow-Catching Shield|Arrow-Catching Shield]]
 - [[Treasure/Arrow of Slaying|Arrow of Slaying]]
-- [[Treasure/Arrow of Slaying|Arrow of Slaying]]
+## B
 - [[Treasure/Bag of Beans|Bag of Beans]]
 - [[Treasure/Bag of Devouring|Bag of Devouring]]
 - [[Treasure/Bag of Holding|Bag of Holding]]
@@ -39,7 +70,7 @@ Magic items are presented in alphabetical order. A magic item's description give
 - [[Treasure/Brazier of Commanding Fire Elementals|Brazier of Commanding Fire Elementals]]
 - [[Treasure/Brooch of Shielding|Brooch of Shielding]]
 - [[Treasure/Broom of Flying|Broom of Flying]]
-- [[Treasure/Broom of Flying|Broom of Flying]]
+## C
 - [[Treasure/Candle of Invocation|Candle of Invocation]]
 - [[Treasure/Cape of the Mountebank|Cape of the Mountebank]]
 - [[Treasure/Carpet of Flying|Carpet of Flying]]
@@ -55,7 +86,7 @@ Magic items are presented in alphabetical order. A magic item's description give
 - [[Treasure/Crystal Ball|Crystal Ball]]
 - [[Treasure/Cube of Force|Cube of Force]]
 - [[Treasure/Cubic Gate|Cubic Gate]]
-- [[Treasure/Cubic Gate|Cubic Gate]]
+## D
 - [[Treasure/Dagger of Venom|Dagger of Venom]]
 - [[Treasure/Dancing Sword|Dancing Sword]]
 - [[Treasure/Decanter of Endless Water|Decanter of Endless Water]]
@@ -71,7 +102,7 @@ Magic items are presented in alphabetical order. A magic item's description give
 - [[Treasure/Dust of Sneezing and Choking|Dust of Sneezing and Choking]]
 - [[Treasure/Dwarven Plate|Dwarven Plate]]
 - [[Treasure/Dwarven Thrower|Dwarven Thrower]]
-- [[Treasure/Dwarven Thrower|Dwarven Thrower]]
+## E
 - [[Treasure/Efficient Quiver|Efficient Quiver]]
 - [[Treasure/Efreeti Bottle|Efreeti Bottle]]
 - [[Treasure/Elemental Gem|Elemental Gem]]
@@ -80,13 +111,13 @@ Magic items are presented in alphabetical order. A magic item's description give
 - [[Treasure/Eyes of Charming|Eyes of Charming]]
 - [[Treasure/Eyes of Minute Seeing|Eyes of Minute Seeing]]
 - [[Treasure/Eyes of the Eagle|Eyes of the Eagle]]
-- [[Treasure/Eyes of the Eagle|Eyes of the Eagle]]
+## F
 - [[Treasure/Feather Token|Feather Token]]
 - [[Treasure/Figurine of Wondrous Power|Figurine of Wondrous Power]]
 - [[Treasure/Flame Tongue|Flame Tongue]]
 - [[Treasure/Folding Boat|Folding Boat]]
 - [[Treasure/Frost Brand|Frost Brand]]
-- [[Treasure/Frost Brand|Frost Brand]]
+## G
 - [[Treasure/Gauntlets of Ogre Power|Gauntlets of Ogre Power]]
 - [[Treasure/Gem of Brightness|Gem of Brightness]]
 - [[Treasure/Gem of Seeing|Gem of Seeing]]
@@ -95,7 +126,7 @@ Magic items are presented in alphabetical order. A magic item's description give
 - [[Treasure/Gloves of Missile Snaring|Gloves of Missile Snaring]]
 - [[Treasure/Gloves of Swimming and Climbing|Gloves of Swimming and Climbing]]
 - [[Treasure/Goggles of Night|Goggles of Night]]
-- [[Treasure/Goggles of Night|Goggles of Night]]
+## H
 - [[Treasure/Hammer of Thunderbolts|Hammer of Thunderbolts]]
 - [[Treasure/Handy Haversack|Handy Haversack]]
 - [[Treasure/Hat of Disguise|Hat of Disguise]]
@@ -109,18 +140,19 @@ Magic items are presented in alphabetical order. A magic item's description give
 - [[Treasure/Horn of Valhalla|Horn of Valhalla]]
 - [[Treasure/Horseshoes of a Zephyr|Horseshoes of a Zephyr]]
 - [[Treasure/Horseshoes of Speed|Horseshoes of Speed]]
-- [[Treasure/Horseshoes of Speed|Horseshoes of Speed]]
+## I
 - [[Treasure/Immovable Rod|Immovable Rod]]
 - [[Treasure/Instant Fortress|Instant Fortress]]
 - [[Treasure/Ioun Stone|Ioun Stone]]
 - [[Treasure/Iron Bands of Binding|Iron Bands of Binding]]
 - [[Treasure/Iron Flask|Iron Flask]]
-- [[Treasure/Iron Flask|Iron Flask]]
+## J
 - [[Treasure/Javelin of Lightning|Javelin of Lightning]]
-- [[Treasure/Javelin of Lightning|Javelin of Lightning]]
+## K
+## L
 - [[Treasure/Lantern of Revealing|Lantern of Revealing]]
 - [[Treasure/Luck Blade|Luck Blade]]
-- [[Treasure/Luck Blade|Luck Blade]]
+## M
 - [[Treasure/Mace of Disruption|Mace of Disruption]]
 - [[Treasure/Mace of Smiting|Mace of Smiting]]
 - [[Treasure/Mace of Terror|Mace of Terror]]
@@ -133,17 +165,17 @@ Magic items are presented in alphabetical order. A magic item's description give
 - [[Treasure/Medallion of Thoughts|Medallion of Thoughts]]
 - [[Treasure/Mirror of Life Trapping|Mirror of Life Trapping]]
 - [[Treasure/Mithral Armor|Mithral Armor]]
-- [[Treasure/Mithral Armor|Mithral Armor]]
+## N
 - [[Treasure/Necklace of Adaptation|Necklace of Adaptation]]
 - [[Treasure/Necklace of Fireballs|Necklace of Fireballs]]
 - [[Treasure/Necklace of Prayer Beads|Necklace of Prayer Beads]]
 - [[Treasure/Nine Lives Stealer|Nine Lives Stealer]]
-- [[Treasure/Nine Lives Stealer|Nine Lives Stealer]]
+## O
 - [[Treasure/Oathbow|Oathbow]]
 - [[Treasure/Oil of Etherealness|Oil of Etherealness]]
 - [[Treasure/Oil of Sharpness|Oil of Sharpness]]
 - [[Treasure/Oil of Slipperiness|Oil of Slipperiness]]
-- [[Treasure/Oil of Slipperiness|Oil of Slipperiness]]
+## P
 - [[Treasure/Pearl of Power|Pearl of Power]]
 - [[Treasure/Periapt of Health|Periapt of Health]]
 - [[Treasure/Periapt of Proof against Poison|Periapt of Proof against Poison]]
@@ -169,7 +201,8 @@ Magic items are presented in alphabetical order. A magic item's description give
 - [[Treasure/Potion of Resistance|Potion of Resistance]]
 - [[Treasure/Potion of Speed|Potion of Speed]]
 - [[Treasure/Potion of Water Breathing|Potion of Water Breathing]]
-- [[Treasure/Potion of Water Breathing|Potion of Water Breathing]]
+## Q
+## R
 - [[Treasure/Restorative Ointment|Restorative Ointment]]
 - [[Treasure/Ring of Animal Influence|Ring of Animal Influence]]
 - [[Treasure/Ring of Djinni Summoning|Ring of Djinni Summoning]]
@@ -205,7 +238,7 @@ Magic items are presented in alphabetical order. A magic item's description give
 - [[Treasure/Rod of Security|Rod of Security]]
 - [[Treasure/Rope of Climbing|Rope of Climbing]]
 - [[Treasure/Rope of Entanglement|Rope of Entanglement]]
-- [[Treasure/Rope of Entanglement|Rope of Entanglement]]
+## S
 - [[Treasure/Scarab of Protection|Scarab of Protection]]
 - [[Treasure/Scimitar of Speed|Scimitar of Speed]]
 - [[Treasure/Shield, +1, +2, or +3|Shield, +1, +2, or +3]]
@@ -233,7 +266,7 @@ Magic items are presented in alphabetical order. A magic item's description give
 - [[Treasure/Sword of Life Stealing|Sword of Life Stealing]]
 - [[Treasure/Sword of Sharpness|Sword of Sharpness]]
 - [[Treasure/Sword of Wounding|Sword of Wounding]]
-- [[Treasure/Sword of Wounding|Sword of Wounding]]
+## T
 - [[Treasure/Talisman of Pure Good|Talisman of Pure Good]]
 - [[Treasure/Talisman of the Sphere|Talisman of the Sphere]]
 - [[Treasure/Talisman of Ultimate Evil|Talisman of Ultimate Evil]]
@@ -241,12 +274,12 @@ Magic items are presented in alphabetical order. A magic item's description give
 - [[Treasure/Tome of Leadership and Influence|Tome of Leadership and Influence]]
 - [[Treasure/Tome of Understanding|Tome of Understanding]]
 - [[Treasure/Trident of Fish Command|Trident of Fish Command]]
-- [[Treasure/Trident of Fish Command|Trident of Fish Command]]
+## U
 - [[Treasure/Universal Solvent|Universal Solvent]]
-- [[Treasure/Universal Solvent|Universal Solvent]]
+## V
 - [[Treasure/Vicious Weapon|Vicious Weapon]]
 - [[Treasure/Vorpal Sword|Vorpal Sword]]
-- [[Treasure/Vorpal Sword|Vorpal Sword]]
+## W
 - [[Treasure/Wand of Binding|Wand of Binding]]
 - [[Treasure/Wand of Enemy Detection|Wand of Enemy Detection]]
 - [[Treasure/Wand of Fear|Wand of Fear]]
@@ -265,3 +298,6 @@ Magic items are presented in alphabetical order. A magic item's description give
 - [[Treasure/Wind Fan|Wind Fan]]
 - [[Treasure/Winged Boots|Winged Boots]]
 - [[Treasure/Wings of Flying|Wings of Flying]]
+## X
+## Y
+## Z

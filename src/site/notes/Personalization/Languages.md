@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personalization/languages/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/personalization/languages/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 [[Personalization/Personalization|Personalization]]

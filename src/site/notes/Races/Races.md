@@ -4,6 +4,15 @@
 
 [[DnD-5E-SRD|DnD-5E-SRD]]
 # Races
+- [[Races/Dragonborn|Dragonborn]]
+- [[Races/Dwarf|Dwarf]]
+- [[Races/Elf|Elf]]
+- [[Races/Gnome|Gnome]]
+- [[Races/Half-Elf|Half-Elf]]
+- [[Races/Half-Orc|Half-Orc]]
+- [[Races/Halfling|Halfling]]
+- [[Races/Human|Human]]
+- [[Races/Tiefling|Tiefling]]
 
 ## Racial Traits
 

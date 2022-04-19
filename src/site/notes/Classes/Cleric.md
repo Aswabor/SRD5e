@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/cleric/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/classes/cleric/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 [[Classes/Classes|Classes]]

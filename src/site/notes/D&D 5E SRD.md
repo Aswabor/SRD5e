@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-and-d-5-e-srd/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-home":true,"dg-publish":true,"aliases":"HOME","permalink":"/d-and-d-5-e-srd/","tags":"gardenEntry","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # D&D 5E SRD

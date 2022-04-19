@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/classes/classes/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/classes/classes/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-[[D&D 5E SRD|HOME]]
+[[D&D 5E SRD|D&D 5E SRD]]
 # Classes
 - [[Classes/Barbarian|Barbarian]]
 - [[Classes/Bard|Bard]]

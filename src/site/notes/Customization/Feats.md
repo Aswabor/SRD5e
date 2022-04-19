@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/customization/feats/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/customization/feats/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 [[Customization/Customization|Customization]]

@@ -5,7 +5,7 @@
 
 [[DnD-5E-SRD|DnD-5E-SRD]]
 
-- [[Spells/Spells#Spells|Spells#Spells]]
+- [[Spells/Spells#Spells|Spells]]
 	- [[Spells/Spells#A|A]]
 	- [[Spells/Spells#B|B]]
 	- [[Spells/Spells#C|C]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/np-cs/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/np-cs/np-cs/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 [[D&D 5E SRD|D&D 5E SRD]]

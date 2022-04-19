@@ -4,6 +4,10 @@
 
 [[DnD-5E-SRD|DnD-5E-SRD]]
 # Abilities
+- [[Abilities/Ability Checks|Ability Checks]]
+- [[Abilities/Advantage and Disadvantage|Advantage and Disadvantage]]
+- [[Abilities/Proficiency Bonus|Proficiency Bonus]]
+- [[Abilities/Saving Throws|Saving Throws]]
 
 Six abilities provide a quick description of every creature's physical and mental characteristics:
 

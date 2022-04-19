@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/equipment/equipment/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-[[D&D 5E SRD|D&D 5E SRD]]
+[[DnD 5E SRD|DnD 5E SRD]]
 # Equipment
 
 ## Coinage

@@ -4,7 +4,6 @@
 
 [[DnD-5E-SRD|DnD-5E-SRD]]
 # Creatures
-h
 ## A
 - [[Creatures/Ape|Ape]]
 - [[Creatures/Awakened Shrub|Awakened Shrub]]

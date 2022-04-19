@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/np-cs/np-cs/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-[[D&D 5E SRD|D&D 5E SRD]]
+[[DnD 5E SRD|DnD 5E SRD]]
 # NPCs
 - [[NPCs/Acolyte|Acolyte]]
 - [[NPCs/Archmage|Archmage]]

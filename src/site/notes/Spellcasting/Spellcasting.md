@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spellcasting/spellcasting/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/spellcasting/spellcasting/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 [[D&D 5E SRD|D&D 5E SRD]]

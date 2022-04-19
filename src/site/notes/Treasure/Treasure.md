@@ -18,6 +18,8 @@
 
 </div>
 
+
+[[Treasure]]
 # Magic Items
 - [[Adamantine Armor]]
 - [[Ammunition, +1, +2, or +3]]

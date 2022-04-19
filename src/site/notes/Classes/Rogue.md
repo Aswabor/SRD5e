@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/rogue/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/classes/rogue/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 [[Classes/Classes|Classes]]

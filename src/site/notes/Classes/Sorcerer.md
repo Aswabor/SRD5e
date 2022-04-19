@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/sorcerer/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/classes/sorcerer/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 [[Classes/Classes|Classes]]

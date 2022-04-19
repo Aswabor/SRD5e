@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/abilities/abilities/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-[[DnD 5E SRD|DnD 5E SRD]]
+[[DnD-5E-SRD|DnD-5E-SRD]]
 # Abilities
 
 Six abilities provide a quick description of every creature's physical and mental characteristics:

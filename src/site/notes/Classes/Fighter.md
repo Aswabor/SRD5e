@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/fighter/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/classes/fighter/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 [[Classes/Classes|Classes]]

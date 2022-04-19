@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/spells/spells/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
+
+[[DnD-5E-SRD|DnD-5E-SRD]]
+
 - [[Spells/Spells#Spells|Spells#Spells]]
 	- [[Spells/Spells#A|A]]
 	- [[Spells/Spells#B|B]]
@@ -30,8 +33,6 @@
 	- [[Spells/Spells#Y|Y]]
 	- [[Spells/Spells#Z|Z]]
 
-
-[[DnD-5E-SRD|DnD-5E-SRD]]
 # Spells
 ## A
 - [[Spells/Acid Arrow|Acid Arrow]]

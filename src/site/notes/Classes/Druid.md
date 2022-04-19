@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/druid/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/classes/druid/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 [[Classes/Classes|Classes]]

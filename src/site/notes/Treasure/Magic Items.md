@@ -4,6 +4,8 @@
 
 [[Treasure/Treasure|Treasure]]
 # Magic Items
+Magic items are presented in alphabetical order. A magic item's description gives the item's name, its category, its rarity, and its magical properties.
+
 - [[Treasure/Adamantine Armor|Adamantine Armor]]
 - [[Treasure/Ammunition, +1, +2, or +3|Ammunition, +1, +2, or +3]]
 - [[Treasure/Amulet of Health|Amulet of Health]]

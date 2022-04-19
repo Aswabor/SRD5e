@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/ranger/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/classes/ranger/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 [[Classes/Classes|Classes]]

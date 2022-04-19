@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/barbarian/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/classes/barbarian/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 [[Classes/Classes|Classes]]

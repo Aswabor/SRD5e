@@ -2,8 +2,34 @@
 {"dg-publish":true,"permalink":"/spells/spells/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-```toc
-```
+- [[Spells/Spells#Spells|Spells]]
+	- [[Spells/Spells#Spells|A]]
+	- [[Spells/Spells#Spells|B]]
+	- [[Spells/Spells#Spells|C]]
+	- [[Spells/Spells#Spells|D]]
+	- [[Spells/Spells#Spells|E]]
+	- [[Spells/Spells#Spells|F]]
+	- [[Spells/Spells#Spells|G]]
+	- [[Spells/Spells#Spells|H]]
+	- [[Spells/Spells#Spells|I]]
+	- [[Spells/Spells#Spells|J]]
+	- [[Spells/Spells#Spells|K]]
+	- [[Spells/Spells#Spells|L]]
+	- [[Spells/Spells#Spells|M]]
+	- [[Spells/Spells#Spells|N]]
+	- [[Spells/Spells#Spells|O]]
+	- [[Spells/Spells#Spells|P]]
+	- [[Spells/Spells#Spells|Q]]
+	- [[Spells/Spells#Spells|R]]
+	- [[Spells/Spells#Spells|S]]
+	- [[Spells/Spells#Spells|T]]
+	- [[Spells/Spells#Spells|U]]
+	- [[Spells/Spells#Spells|V]]
+	- [[Spells/Spells#Spells|W]]
+	- [[Spells/Spells#Spells|X]]
+	- [[Spells/Spells#Spells|Y]]
+	- [[Spells/Spells#Spells|Z]]
+
 
 [[DnD-5E-SRD|DnD-5E-SRD]]
 # Spells

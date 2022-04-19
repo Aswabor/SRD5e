@@ -4,6 +4,10 @@
 
 [[DnD-5E-SRD|DnD-5E-SRD]]
 # Monsters
+- [[Monsters/Monster Statistics|Monster Statistics]]
+- [[Monsters/Legendary Creatures|Legendary Creatures]]
+
+## Statblocks
 - [[Monsters/Aboleth|Aboleth]]
 - [[Monsters/Angels|Angels]]
 - [[Monsters/Animated Objects|Animated Objects]]

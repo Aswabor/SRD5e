@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/creatures/creatures/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-[[D&D 5E SRD|D&D 5E SRD]]
+[[DnD 5E SRD|DnD 5E SRD]]
 # Creatures
 - [[Creatures/Ape|Ape]]
 - [[Creatures/Awakened Shrub|Awakened Shrub]]

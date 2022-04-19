@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/spellcasting/spellcasting/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-[[D&D 5E SRD|D&D 5E SRD]]
+[[DnD 5E SRD|DnD 5E SRD]]
 # Spellcasting
 
 Magic permeates fantasy gaming worlds and often appears in the form of a spell.

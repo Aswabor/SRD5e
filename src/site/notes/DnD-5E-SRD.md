@@ -18,4 +18,3 @@
 - [[Monsters/Monsters|Monsters]]
 - [[Creatures/Creatures|Creatures]]
 - [[NPCs/NPCs|NPCs]]
-- [[SRD-OGL_V5.1.pdf]]

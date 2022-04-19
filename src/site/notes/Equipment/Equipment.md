@@ -35,7 +35,6 @@ A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
 | Electrum (ep) | 50    | 5    | 1    | 1/2   | 1/20    |
 | Gold (gp)     | 100   | 10   | 2    | 1     | 1/10    |
 | Platinum (pp) | 1,000 | 100  | 20   | 10    | 1       |
-|               |       |      |      |       |         |
 
 ## Selling Treasure
 

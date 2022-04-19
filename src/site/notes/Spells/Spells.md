@@ -2,8 +2,12 @@
 {"dg-publish":true,"permalink":"/spells/spells/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
+```toc
+```
+
 [[DnD-5E-SRD|DnD-5E-SRD]]
 # Spells
+## A
 - [[Spells/Acid Arrow|Acid Arrow]]
 - [[Spells/Acid Splash|Acid Splash]]
 - [[Spells/Aid|Aid]]
@@ -25,7 +29,7 @@
 - [[Spells/Astral Projection|Astral Projection]]
 - [[Spells/Augury|Augury]]
 - [[Spells/Awaken|Awaken]]
-- [[Spells/Awaken|Awaken]]
+## B
 - [[Spells/Bane|Bane]]
 - [[Spells/Banishment|Banishment]]
 - [[Spells/Barkskin|Barkskin]]
@@ -40,7 +44,7 @@
 - [[Spells/Blur|Blur]]
 - [[Spells/Branding Smite|Branding Smite]]
 - [[Spells/Burning Hands|Burning Hands]]
-- [[Spells/Burning Hands|Burning Hands]]
+## C
 - [[Spells/Call Lightning|Call Lightning]]
 - [[Spells/Calm Emotions|Calm Emotions]]
 - [[Spells/Chain Lightning|Chain Lightning]]
@@ -76,7 +80,7 @@
 - [[Spells/Create Undead|Create Undead]]
 - [[Spells/Creation|Creation]]
 - [[Spells/Cure Wounds|Cure Wounds]]
-- [[Spells/Cure Wounds|Cure Wounds]]
+## D
 - [[Spells/Dancing Lights|Dancing Lights]]
 - [[Spells/Darkness|Darkness]]
 - [[Spells/Darkvision|Darkvision]]
@@ -101,7 +105,7 @@
 - [[Spells/Dominate Person|Dominate Person]]
 - [[Spells/Dream|Dream]]
 - [[Spells/Druidcraft|Druidcraft]]
-- [[Spells/Druidcraft|Druidcraft]]
+## E
 - [[Spells/Earthquake|Earthquake]]
 - [[Spells/Eldritch Blast|Eldritch Blast]]
 - [[Spells/Enhance Ability|Enhance Ability]]
@@ -111,7 +115,7 @@
 - [[Spells/Etherealness|Etherealness]]
 - [[Spells/Expeditious Retreat|Expeditious Retreat]]
 - [[Spells/Eyebite|Eyebite]]
-- [[Spells/Eyebite|Eyebite]]
+## F
 - [[Spells/Fabricate|Fabricate]]
 - [[Spells/Faerie Fire|Faerie Fire]]
 - [[Spells/Faithful Hound|Faithful Hound]]
@@ -140,7 +144,7 @@
 - [[Spells/Foresight|Foresight]]
 - [[Spells/Freedom of Movement|Freedom of Movement]]
 - [[Spells/Freezing Sphere|Freezing Sphere]]
-- [[Spells/Freezing Sphere|Freezing Sphere]]
+## G
 - [[Spells/Gaseous Form|Gaseous Form]]
 - [[Spells/Gate|Gate]]
 - [[Spells/Geas|Geas]]
@@ -157,7 +161,7 @@
 - [[Spells/Guidance|Guidance]]
 - [[Spells/Guiding Bolt|Guiding Bolt]]
 - [[Spells/Gust of Wind|Gust of Wind]]
-- [[Spells/Gust of Wind|Gust of Wind]]
+## H
 - [[Spells/Hallow|Hallow]]
 - [[Spells/Hallucinatory Terrain|Hallucinatory Terrain]]
 - [[Spells/Harm|Harm]]
@@ -174,7 +178,7 @@
 - [[Spells/Holy Aura|Holy Aura]]
 - [[Spells/Hunter’s Mark|Hunter’s Mark]]
 - [[Spells/Hypnotic Pattern|Hypnotic Pattern]]
-- [[Spells/Hypnotic Pattern|Hypnotic Pattern]]
+## I
 - [[Spells/Ice Storm|Ice Storm]]
 - [[Spells/Identify|Identify]]
 - [[Spells/Illusory Script|Illusory Script]]
@@ -185,11 +189,11 @@
 - [[Spells/Instant Summons|Instant Summons]]
 - [[Spells/Invisibility|Invisibility]]
 - [[Spells/Irresistible Dance|Irresistible Dance]]
-- [[Spells/Irresistible Dance|Irresistible Dance]]
+## J
 - [[Spells/Jump|Jump]]
-- [[Spells/Jump|Jump]]
+## K
 - [[Spells/Knock|Knock]]
-- [[Spells/Knock|Knock]]
+## L
 - [[Spells/Legend Lore|Legend Lore]]
 - [[Spells/Lesser Restoration|Lesser Restoration]]
 - [[Spells/Levitate|Levitate]]
@@ -199,7 +203,7 @@
 - [[Spells/Locate Creature|Locate Creature]]
 - [[Spells/Locate Object|Locate Object]]
 - [[Spells/Longstrider|Longstrider]]
-- [[Spells/Longstrider|Longstrider]]
+## M
 - [[Spells/Mage Armor|Mage Armor]]
 - [[Spells/Mage Hand|Mage Hand]]
 - [[Spells/Magic Circle|Magic Circle]]
@@ -227,9 +231,10 @@
 - [[Spells/Modify Memory|Modify Memory]]
 - [[Spells/Moonbeam|Moonbeam]]
 - [[Spells/Move Earth|Move Earth]]
-- [[Spells/Move Earth|Move Earth]]
+## N
 - [[Spells/Nondetection|Nondetection]]
-- [[Spells/Nondetection|Nondetection]]
+## O
+## P
 - [[Spells/Pass without Trace|Pass without Trace]]
 - [[Spells/Passwall|Passwall]]
 - [[Spells/Phantasmal Killer|Phantasmal Killer]]
@@ -254,7 +259,8 @@
 - [[Spells/Protection from Evil and Good|Protection from Evil and Good]]
 - [[Spells/Protection from Poison|Protection from Poison]]
 - [[Spells/Purify Food and Drink|Purify Food and Drink]]
-- [[Spells/Purify Food and Drink|Purify Food and Drink]]
+## Q
+## R
 - [[Spells/Raise Dead|Raise Dead]]
 - [[Spells/Ray of Enfeeblement|Ray of Enfeeblement]]
 - [[Spells/Ray of Frost|Ray of Frost]]
@@ -267,7 +273,7 @@
 - [[Spells/Reverse Gravity|Reverse Gravity]]
 - [[Spells/Revivify|Revivify]]
 - [[Spells/Rope Trick|Rope Trick]]
-- [[Spells/Rope Trick|Rope Trick]]
+## S
 - [[Spells/Sacred Flame|Sacred Flame]]
 - [[Spells/Sanctuary|Sanctuary]]
 - [[Spells/Scorching Ray|Scorching Ray]]
@@ -305,7 +311,7 @@
 - [[Spells/Sunbeam|Sunbeam]]
 - [[Spells/Sunburst|Sunburst]]
 - [[Spells/Symbol|Symbol]]
-- [[Spells/Symbol|Symbol]]
+## T
 - [[Spells/Telekinesis|Telekinesis]]
 - [[Spells/Telepathic Bond|Telepathic Bond]]
 - [[Spells/Teleport|Teleport]]
@@ -321,12 +327,12 @@
 - [[Spells/True Resurrection|True Resurrection]]
 - [[Spells/True Seeing|True Seeing]]
 - [[Spells/True Strike|True Strike]]
-- [[Spells/True Strike|True Strike]]
+## U
 - [[Spells/Unseen Servant|Unseen Servant]]
-- [[Spells/Unseen Servant|Unseen Servant]]
+## V
 - [[Spells/Vampiric Touch|Vampiric Touch]]
 - [[Spells/Vicious Mockery|Vicious Mockery]]
-- [[Spells/Vicious Mockery|Vicious Mockery]]
+## W
 - [[Spells/Wall of Fire|Wall of Fire]]
 - [[Spells/Wall of Force|Wall of Force]]
 - [[Spells/Wall of Ice|Wall of Ice]]
@@ -341,5 +347,7 @@
 - [[Spells/Wind Wall|Wind Wall]]
 - [[Spells/Wish|Wish]]
 - [[Spells/Word of Recall|Word of Recall]]
-- [[Spells/Word of Recall|Word of Recall]]
+## X
+## Y
+## Z
 - [[Spells/Zone of Truth|Zone of Truth]]

@@ -4,6 +4,9 @@
 
 [[DnD-5E-SRD|DnD-5E-SRD]]
 # NPCs
+- [[NPCs/Customizing NPCs|Customizing NPCs]]
+
+## Statblocks
 - [[NPCs/Acolyte|Acolyte]]
 - [[NPCs/Archmage|Archmage]]
 - [[NPCs/Assassin|Assassin]]

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/monsters/monsters/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-[[DnD 5E SRD|DnD 5E SRD]]
+[[DnD-5E-SRD|DnD-5E-SRD]]
 # Monsters
 - [[Monsters/Aboleth|Aboleth]]
 - [[Monsters/Angels|Angels]]

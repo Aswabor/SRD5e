@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/wizard/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/classes/wizard/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 [[Classes/Classes|Classes]]

@@ -206,7 +206,6 @@ The starting equipment you get from your class includes a collection of useful a
 | Vial                         | 1 gp     | -            |
 | Waterskin                    | 2 sp     | 5 lb. (full) |
 | Whetstone                    | 1 cp     | 1 lb.        |
-|                              |          |              |
 
 **Table- Container Capacity**
 
@@ -225,7 +224,6 @@ The starting equipment you get from your class includes a collection of useful a
 | Sack             | 1 cubic foot/30 pounds of gear         |
 | Vial             | 4 ounces liquid                        |
 | Waterskin        | 4 pints liquid                         |
-|                  |                                        |
 
 \* You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.
 

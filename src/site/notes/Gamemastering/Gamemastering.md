@@ -7,3 +7,4 @@
 - [[Gamemastering/Conditions|Conditions]]
 - [[Gamemastering/Pantheons|Pantheons]]
 - [[Gamemastering/Planes|Planes]]
+- [[Gamemastering/Situational Rules|Situational Rules]]

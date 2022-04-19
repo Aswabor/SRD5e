@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/races/races/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/races/races/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-[[D&D 5E SRD|HOME]]
+[[D&D 5E SRD|D&D 5E SRD]]
 # Races
 
 ## Racial Traits

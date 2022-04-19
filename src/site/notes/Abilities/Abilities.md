@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abilities/abilities/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/abilities/abilities/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 [[D&D 5E SRD|D&D 5E SRD]]

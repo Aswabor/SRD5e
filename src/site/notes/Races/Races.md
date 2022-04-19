@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/races/races/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-[[DnD 5E SRD|DnD 5E SRD]]
+[[DnD-5E-SRD|DnD-5E-SRD]]
 # Races
 
 ## Racial Traits

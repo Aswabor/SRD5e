@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/gamemastering/situational-rules/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
+
 [[Gamemastering/Gamemastering|Gamemastering]]
 # Situational Rules
 

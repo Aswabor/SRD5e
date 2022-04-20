@@ -9,3 +9,5 @@ This is an adaptation of the [D&D 5E system reference document](https://dnd.wiza
 
 ## License
 Open Game License (OGL) Version 1.0a
+
+[[DnD-5E-SRD|DnD-5E-SRD]]

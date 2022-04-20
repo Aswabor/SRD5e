@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/treasure/stone-of-good-luck-luckstone/","dgHomeLink":false,"dgPassFrontmatter":true}
+---
+
+
+# Stone of Good Luck (Luckstone)
+
+*Wondrous item, uncommon (requires attunement)*
+
+While this polished agate is on your person, you gain a +1 bonus to ability checks and saving throws.
+
+
+[[Treasure/Magic Items|Magic Items]]

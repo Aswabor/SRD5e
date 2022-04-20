@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/treasure/adamantine-armor/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
+
 # Adamantine Armor
 
 *Armor (medium or heavy, but not hide), uncommon*

@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/treasure/brooch-of-shielding/","dgHomeLink":false,"dgPassFrontmatter":true}
+---
+
+
+# Brooch of Shielding
+
+*Wondrous item, uncommon (requires attunement)*
+
+While wearing this brooch, you have resistance to force damage, and you have immunity to damage from the *magic missile* spell.
+
+
+[[Treasure/Magic Items|Magic Items]]

@@ -4,7 +4,8 @@
 
 [[DnD-5E-SRD|DnD-5E-SRD]]
 # Races
-- [[Races/Dragonborn|Dragonborn]]
+## Base
+- [[Races/Dragonborn|Dragonborn]] old! Use:([[Dragonborn (Chromatic)-PR|Chromatic]], [[Dragonborn (Gem)-PR|Gem]], [[Dragonborn (Metallic)-PR|Metallic]])
 - [[Races/Dwarf|Dwarf]]
 - [[Races/Elf|Elf]]
 - [[Races/Gnome|Gnome]]
@@ -13,6 +14,45 @@
 - [[Races/Halfling|Halfling]]
 - [[Races/Human|Human]]
 - [[Races/Tiefling|Tiefling]]
+
+## Extended
+- [[Races/Aarakocra-PR|Aarakocra]]
+- [[Races/Aasimar-PR|Aasimar]]
+- [[Races/Bugbear-PR|Bugbear]]
+- [[Races/Centaur-PR|Centaur]]
+- [[Races/Changeling-PR|Changeling]]
+- [[Deep Gnome-PR|Deep Gnome]]
+- [[Dragonborn (Chromatic)-PR|Dragonborn (Chromatic)]]
+- [[Dragonborn (Gem)-PR|Dragonborn (Gem)]]
+- [[Dragonborn (Metallic)-PR|Dragonborn (Metallic)]]
+- [[Duergar-PR|Duergar-PR]]
+- [[Eladrin-PR|Eladrin-PR]]
+- [[Fairy-PR|Fairy-PR]]
+- [[Firbolg-PR|Firbolg-PR]]
+- [[Genasi (Air)-PR|Genasi (Air)-PR]]
+- [[Genasi (Earth)-PR|Genasi (Earth)-PR]]
+- [[Genasi (Fire)-PR|Genasi (Fire)-PR]]
+- [[Genasi (Water)-PR|Genasi (Water)-PR]]
+- [[Githyanki-PR|Githyanki-PR]]
+- [[Githzerai-PR|Githzerai-PR]]
+- [[Goblin-PR|Goblin-PR]]
+- [[Goliath-PR|Goliath-PR]]
+- [[Harengon-PR|Harengon-PR]]
+- [[Hobgoblin-PR|Hobgoblin-PR]]
+- [[Kenku-PR|Kenku-PR]]
+- [[Kobold-PR|Kobold-PR]]
+- [[Lizardfolk-PR|Lizardfolk-PR]]
+- [[Minotaur-PR|Minotaur-PR]]
+- [[Orc-PR|Orc-PR]]
+- [[Owlin-PR|Owlin-PR]]
+- [[Satyr-PR|Satyr-PR]]
+- [[Sea Elf-PR|Sea Elf-PR]]
+- [[Shadar-Kai-PR|Shadar-Kai-PR]]
+- [[Shifter-PR|Shifter-PR]]
+- [[Tabaxi-PR|Tabaxi-PR]]
+- [[Tortle-PR|Tortle-PR]]
+- [[Triton-PR|Triton-PR]]
+- [[Yuan-Ti-PR|Yuan-Ti-PR]]
 
 ## Racial Traits
 

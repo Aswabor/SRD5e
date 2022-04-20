@@ -100,7 +100,6 @@
 - [[Creatures/Hawk|Hawk]]
 - [[Creatures/Hunter Shark|Hunter Shark]]
 - [[Creatures/Hyena|Hyena]]
-- [[Creatures/Hyena|Hyena]]
 ## I
 ## J
 - [[Creatures/Jackal|Jackal]]

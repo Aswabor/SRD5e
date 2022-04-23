@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spells/alter-self/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"Done":true,"Classes":"Artificer, Sorcerer, Wizard","permalink":"/spells/alter-self/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 

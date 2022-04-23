@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spells/antipathy-slash-sympathy/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"Classes":"Druid, Wizard","permalink":"/spells/antipathy-slash-sympathy/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 

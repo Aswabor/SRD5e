@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spells/enlarge-slash-reduce/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":"enlarge/reduce","permalink":"/spells/enlarge-slash-reduce/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 

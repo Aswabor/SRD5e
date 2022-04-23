@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spells/aid/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"Done":true,"Classes":"Artificer, Cleric, Paladin","permalink":"/spells/aid/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 

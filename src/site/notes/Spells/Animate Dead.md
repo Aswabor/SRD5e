@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spells/animate-dead/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"Done":true,"Classes":"Cleric, Wizard","permalink":"/spells/animate-dead/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spells/antimagic-field/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"Classes":"Cleric, Wizard","permalink":"/spells/antimagic-field/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 

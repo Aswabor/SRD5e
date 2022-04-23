@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spells/animate-objects/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"Done":true,"Classes":"Artificer, Bard, Sorcerer, Wizard","permalink":"/spells/animate-objects/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 

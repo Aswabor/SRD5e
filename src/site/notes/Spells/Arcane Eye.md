@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spells/arcane-eye/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"Classes":"Artificer, Wizard","permalink":"/spells/arcane-eye/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 

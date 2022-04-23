@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spells/animal-shapes/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"Done":true,"Classes":"Druid","permalink":"/spells/animal-shapes/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spells/antilife-shell/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"Classes":"Druid","permalink":"/spells/antilife-shell/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 

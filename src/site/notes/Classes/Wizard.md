@@ -64,7 +64,7 @@ You start with the following equipment, in addition to the equipment granted by 
 | 20th  | +6                | Signature Spell               | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 ### Spellcasting
-
+[[Classes/Spelllists/Wizard-Spelllist|Wizard-Spelllist]]
 As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power.
 
 #### Cantrips

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spells/alarm/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"Done":true,"Classes":"Artificer, Ranger, Wizard","permalink":"/spells/alarm/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 

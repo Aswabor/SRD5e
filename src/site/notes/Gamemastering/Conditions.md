@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gamemastering/conditions/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":"Blinded, Charmed, Deafened, Exhaustion, Frightened, Grappled, Incapacitated, Invisible, Paralyzed, Petrified, Poisoned, Prone, Restrained, Stunned, Unconscious","permalink":"/gamemastering/conditions/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 

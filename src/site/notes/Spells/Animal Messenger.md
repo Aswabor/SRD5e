@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spells/animal-messenger/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"Done":true,"Classes":"Bard, Druid, Ranger","permalink":"/spells/animal-messenger/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 

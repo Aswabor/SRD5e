@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spells/acid-splash/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"Done":true,"Classes":"Artificer, Sorcerer, Wizard","permalink":"/spells/acid-splash/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spells/acid-arrow/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"Done":true,"Classes":"Wizard","permalink":"/spells/acid-arrow/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 

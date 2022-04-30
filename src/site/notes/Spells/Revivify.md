@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric, Paladin, Artificer, Artificer (Revisited), Artificer,","spellLevel":3,"school":"Necromancy","source":"PHB","permalink":"/spells/revivify/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric, Paladin, Artificer,","spellLevel":3,"school":"Necromancy","source":"PHB","permalink":"/spells/revivify/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Revivify
@@ -9,7 +9,7 @@
 
 **Range:** Point, Touch
 
-**Components:** V S 
+**Components:** V S M(diamonds worth 300 gp, which the spell consumes)
 
 **Duration:** Instant
 

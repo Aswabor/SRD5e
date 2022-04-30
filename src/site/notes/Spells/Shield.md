@@ -1,21 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/spells/shield/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Sorcerer, Wizard,","spellLevel":1,"school":"Abjuration","source":"PHB","permalink":"/spells/shield/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Shield
+*A 1st Level Abjuration Spell.*
 
-*1st-level abjuration*
+**Casting Time:** 1 Reaction
 
-**Casting Time:** 1 reaction, which you take when you are hit by an attack or targeted by the *magic missile* spell
+**Range:** Point, Self
 
-**Range:** Self
+**Components:** V S 
 
-**Components:** V, S
+**Duration:** Timed, 1 Round
 
-**Duration:** 1 round
+An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from {@spell magic missile}.
 
-An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from *magic missile*.
-
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

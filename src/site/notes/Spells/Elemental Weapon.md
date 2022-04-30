@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Paladin, Artificer (Revisited), Artificer,","spellLevel":3,"school":"Transmutation","source":"PHB","permalink":"/spells/elemental-weapon/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Paladin, Artificer,","spellLevel":3,"school":"Transmutation","source":"PHB","permalink":"/spells/elemental-weapon/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Elemental Weapon

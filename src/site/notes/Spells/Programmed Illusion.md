@@ -9,7 +9,7 @@
 
 **Range:** Point, 120 Feet
 
-**Components:** V S 
+**Components:** V S M(a bit of fleece and jade dust worth at least 25 gp)
 
 **Duration:** Permanent
 

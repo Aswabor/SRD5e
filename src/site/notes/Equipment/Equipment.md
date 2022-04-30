@@ -42,7 +42,7 @@ Opportunities abound to find [[Treasure/Treasure|treasure]], equipment, [[Equipm
 
 ***Arms, Armor, and Other Equipment***. As a general rule, undamaged [[Equipment/Weapons|weapons]], [[Equipment/Armor|armor]], and other equipment fetch half their cost when sold in a market. [[Equipment/Weapons|Weapons]] and [[Equipment/Armor|armor]] used by [[Monsters/Monsters|monsters]] are rarely in good enough condition to sell.
 
-***Magic Items***. Selling [[Treasure/Magic Items|magic items]] is problematic. Finding someone to buy a potion or a scroll isn't too hard, but other items are out of the realm of most but the wealthiest nobles. Likewise, aside from a few common [[Treasure/Magic Items|magic items]], you won't normally come across [[Treasure/Magic Items|magic items]] or [[Spells/Spells|spells]] to purchase. The value of magic is far beyond simple gold and should always be treated as such.
+***Magic Items***. Selling [[Treasure/Magic Items|magic items]] is problematic. Finding someone to buy a potion or a scroll isn't too hard, but other items are out of the realm of most but the wealthiest nobles. Likewise, aside from a few common [[Treasure/Magic Items|magic items]], you won't normally come across [[Treasure/Magic Items|magic items]] or [[Spellcasting/Spells|spells]] to purchase. The value of magic is far beyond simple gold and should always be treated as such.
 
 ***Gems, Jewelry, and Art Objects***. These items retain their full value in the marketplace, and you can either trade them in for coin or use them as currency for other transactions. For exceptionally valuable treasures, the GM might require you to find a buyer in a large town or larger community first.
 

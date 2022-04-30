@@ -9,7 +9,7 @@
 
 **Range:** Point, Self
 
-**Components:** V S 
+**Components:** V S M(a book worth at least 25 gp)
 
 **Duration:** Timed, 1 Hour
 

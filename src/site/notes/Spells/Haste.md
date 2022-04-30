@@ -1,23 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/spells/haste/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Sorcerer, Wizard, Artificer, Artificer (Revisited), Artificer,","spellLevel":3,"school":"Transmutation","source":"PHB","permalink":"/spells/haste/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Haste
+*A 3rd Level Transmutation Spell.*
 
-*3rd-level transmutation*
+**Casting Time:** 1 Action
 
-**Casting Time:** 1 action
+**Range:** Point, 30 Feet
 
-**Range:** 30 feet
+**Components:** V S M(a shaving of licorice root)
 
-**Components:** V, S, M (a shaving of licorice root)
+**Duration:** Timed, 1 Minute
 
-**Duration:** Concentration, up to 1 minute
+Choose a willing creature that you can see within range. Until the spell ends, the target's speed is doubled, it gains a +2 bonus to AC, it has advantage on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used only to take the {@action Attack} (one weapon attack only), {@action Dash}, {@action Disengage}, {@action Hide}, or {@action Use an Object} action.
 
-Choose a willing creature that you can see within range. Until the spell ends, the target's speed is doubled, it gains a +2 bonus to AC, it has advantage on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action.
-
-When the spell ends, the target can't move or take actions until after its next turn, as a wave of lethargy sweeps over it.
-
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

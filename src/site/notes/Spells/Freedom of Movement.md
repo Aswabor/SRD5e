@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Cleric, Druid, Ranger, Artificer, Artificer (Revisited), Artificer,","spellLevel":4,"school":"Abjuration","source":"PHB","permalink":"/spells/freedom-of-movement/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Cleric, Druid, Ranger, Artificer,","spellLevel":4,"school":"Abjuration","source":"PHB","permalink":"/spells/freedom-of-movement/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Freedom of Movement

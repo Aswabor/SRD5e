@@ -9,7 +9,7 @@
 
 **Range:** Point, Touch
 
-**Components:** V S 
+**Components:** V S M(25 gp worth of powdered silver, which the spell consumes)
 
 **Duration:** Instant
 

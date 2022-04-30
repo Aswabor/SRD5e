@@ -9,7 +9,7 @@
 
 **Range:** Point, 30 Feet
 
-**Components:** V S 
+**Components:** V S M(a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500 gp per Hit Die of the target)
 
 **Duration:** Permanent
 

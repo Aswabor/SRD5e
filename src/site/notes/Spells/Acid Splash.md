@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Sorcerer, Wizard, Artificer (Revisited), Artificer,","spellLevel":0,"school":"Conjuration","source":"PHB","permalink":"/spells/acid-splash/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Sorcerer, Wizard, Artificer,","spellLevel":0,"school":"Conjuration","source":"PHB","permalink":"/spells/acid-splash/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Acid Splash

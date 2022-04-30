@@ -1,21 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/spells/mass-heal/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric,","spellLevel":9,"school":"Evocation","source":"PHB","permalink":"/spells/mass-heal/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Mass Heal
+*A 9th Level Evocation Spell.*
 
-*9th-level evocation*
+**Casting Time:** 1 Action
 
-**Casting Time:** 1 action
+**Range:** Point, 60 Feet
 
-**Range:** 60 feet
+**Components:** V S 
 
-**Components:** V, S
+**Duration:** Instant
 
-**Duration:** Instantaneous
+A flood of healing energy flows from you into injured creatures around you. You restore up to 700 hit points, divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell are also cured of all diseases and any effect making them {@condition blinded} or {@condition deafened}. This spell has no effect on undead or constructs.
 
-A flood of healing energy flows from you into injured creatures around you. You restore up to 700 hit points, divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell are also cured of all diseases and any effect making them blinded or deafened. This spell has no effect on undead or constructs.
-
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

@@ -9,7 +9,7 @@
 
 **Range:** Point, 10 Feet
 
-**Components:** V S 
+**Components:** V S M(one clay pot filled with grave dirt, one clay pot filled with brackish water, and one 150 gp black onyx stone for each corpse)
 
 **Duration:** Instant
 

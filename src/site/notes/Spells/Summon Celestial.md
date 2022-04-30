@@ -9,7 +9,7 @@
 
 **Range:** Point, 90 Feet
 
-**Components:** V S 
+**Components:** V S M(a golden reliquary worth at least 500 gp)
 
 **Duration:** Timed, 1 Hour
 

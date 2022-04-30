@@ -9,7 +9,7 @@
 
 **Range:** Point, 90 Feet
 
-**Components:** V S 
+**Components:** V S M(air, a pebble, ash, and water inside a gold-inlaid vial worth at least 400 gp)
 
 **Duration:** Timed, 1 Hour
 

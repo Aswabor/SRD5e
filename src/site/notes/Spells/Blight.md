@@ -1,27 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/spells/blight/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Druid, Sorcerer, Warlock, Wizard,","spellLevel":4,"school":"Necromancy","source":"PHB","permalink":"/spells/blight/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Blight
+*A 4th Level Necromancy Spell.*
 
-*4th-level necromancy*
+**Casting Time:** 1 Action
 
-**Casting Time:** 1 action
+**Range:** Point, 30 Feet
 
-**Range:** 30 feet
+**Components:** V S 
 
-**Components:** V, S
+**Duration:** Instant
 
-**Duration:** Instantaneous
+Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a Constitution saving throw. The target takes {@damage 8d8} necrotic damage on a failed save, or half as much damage on a successful one. This spell has no effect on undead or constructs.
 
-Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a Constitution saving throw. The target takes 8d8 necrotic damage on a failed save, or half as much damage on a successful one. This spell has no effect on undead or constructs.
+At Higher Levels
 
-If you target a plant creature or a magical plant, it makes the saving throw with disadvantage, and the spell deals maximum damage to it.
+When you cast this spell using a spell slot of 5th level or higher, the damage increases by {@scaledamage 8d8|4-9|1d8} for each slot level above 4th.
 
-If you target a nonmagical plant that isn't a creature, such as a tree or shrub, it doesn't make a saving throw; it simply withers and dies.
-
-***At Higher Levels***. When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d8 for each slot level above 4th.
-
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

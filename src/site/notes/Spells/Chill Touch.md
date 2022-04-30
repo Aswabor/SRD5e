@@ -1,25 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/spells/chill-touch/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Sorcerer, Warlock, Wizard,","spellLevel":0,"school":"Necromancy","source":"PHB","permalink":"/spells/chill-touch/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Chill Touch
+*A Necromancy Cantrip.*
 
-*Necromancy cantrip*
+**Casting Time:** 1 Action
 
-**Casting Time:** 1 action
+**Range:** Point, 120 Feet
 
-**Range:** 120 feet
+**Components:** V S 
 
-**Components:** V, S
+**Duration:** Timed, 1 Round
 
-**Duration:** 1 round
+You create a ghostly, skeletal hand in the space of a creature within range. Make a ranged spell attack against the creature to assail it with the chill of the grave. On a hit, the target takes {@damage 1d8} necrotic damage, and it can't regain hit points until the start of your next turn. Until then, the hand clings to the target.
 
-You create a ghostly, skeletal hand in the space of a creature within range. Make a ranged spell attack against the creature to assail it with the chill of the grave. On a hit, the target takes 1d8 necrotic damage, and it can't regain hit points until the start of your next turn. Until then, the hand clings to the target.
-
-If you hit an undead target, it also has disadvantage on attack rolls against you until the end of your next turn.
-
-This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
-
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

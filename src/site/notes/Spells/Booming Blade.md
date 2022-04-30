@@ -9,7 +9,7 @@
 
 **Range:** Radius, 5 Feet
 
-**Components:** S 
+**Components:** S M(a melee weapon worth at least 1 sp)
 
 **Duration:** Timed, 1 Round
 

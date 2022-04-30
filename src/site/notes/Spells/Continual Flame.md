@@ -1,21 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/spells/continual-flame/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric, Wizard, Artificer, Artificer (Revisited), Artificer,","spellLevel":2,"school":"Evocation","source":"PHB","permalink":"/spells/continual-flame/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Continual Flame
+*A 2nd Level Evocation Spell.*
 
-*2nd-level evocation*
+**Casting Time:** 1 Action
 
-**Casting Time:** 1 action
+**Range:** Point, Touch
 
-**Range:** Touch
+**Components:** V S 
 
-**Components:** V, S, M (ruby dust worth 50 gp, which the spell consumes)
+**Duration:** Permanent
 
-**Duration:** Until dispelled
+A flame, equivalent in brightness to a torch, springs forth from an object that you touch. The effect looks like a regular flame, but it creates no heat and doesn't use oxygen. A continual flame can be covered or hidden but not smothered or quenched.
 
-A flame, equivalent in brightness to a torch, springs forth from an object that you touch. The effect looks like a regular flame, but it creates no heat and doesn't use oxygen. A *continual flame* can be covered or hidden but not smothered or quenched.
-
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

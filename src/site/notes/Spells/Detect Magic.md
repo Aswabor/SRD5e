@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Wizard, Artificer (Revisited), Artificer,","spellLevel":1,"school":"Divination","source":"PHB","permalink":"/spells/detect-magic/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Wizard, Artificer,","spellLevel":1,"school":"Divination","source":"PHB","permalink":"/spells/detect-magic/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Detect Magic

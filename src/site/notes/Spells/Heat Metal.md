@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Druid, Artificer (Revisited), Artificer,","spellLevel":2,"school":"Transmutation","source":"PHB","permalink":"/spells/heat-metal/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Druid, Artificer,","spellLevel":2,"school":"Transmutation","source":"PHB","permalink":"/spells/heat-metal/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Heat Metal

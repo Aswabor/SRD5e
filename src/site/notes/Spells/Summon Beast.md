@@ -9,7 +9,7 @@
 
 **Range:** Point, 90 Feet
 
-**Components:** V S 
+**Components:** V S M(a feather, tuft of fur, and fish tail inside a gilded acorn worth at least 200 gp)
 
 **Duration:** Timed, 1 Hour
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Sorcerer, Wizard, Artificer, Artificer (Revisited), Artificer,","spellLevel":3,"school":"Transmutation","source":"PHB","permalink":"/spells/haste/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Sorcerer, Wizard, Artificer,","spellLevel":3,"school":"Transmutation","source":"PHB","permalink":"/spells/haste/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Haste

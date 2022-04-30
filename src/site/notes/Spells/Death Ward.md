@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric, Paladin, Artificer,","spellLevel":4,"school":"Abjuration","source":"PHB","permalink":"/spells/death-ward/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric, Paladin,","spellLevel":4,"school":"Abjuration","source":"PHB","permalink":"/spells/death-ward/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Death Ward

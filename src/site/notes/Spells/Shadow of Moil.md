@@ -9,7 +9,7 @@
 
 **Range:** Point, Self
 
-**Components:** V S 
+**Components:** V S M(an undead eyeball encased in a gem worth at least 150 gp)
 
 **Duration:** Timed, 1 Minute
 

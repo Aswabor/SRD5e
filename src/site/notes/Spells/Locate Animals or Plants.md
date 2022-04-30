@@ -1,21 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/spells/locate-animals-or-plants/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Druid, Ranger,","spellLevel":2,"school":"Divination","source":"PHB","permalink":"/spells/locate-animals-or-plants/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Locate Animals or Plants
+*A 2nd Level Divination Spell.*
 
-*2nd-level divination (ritual)*
+**Casting Time:** 1 Action
 
-**Casting Time:** 1 action
+**Range:** Point, Self
 
-**Range:** Self
+**Components:** V S M(a bit of fur from a bloodhound)
 
-**Components:** V, S, M (a bit of fur from a bloodhound)
-
-**Duration:** Instantaneous
+**Duration:** Instant
 
 Describe or name a specific kind of beast or plant. Concentrating on the voice of nature in your surroundings, you learn the direction and distance to the closest creature or plant of that kind within 5 miles, if any are present.
 
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

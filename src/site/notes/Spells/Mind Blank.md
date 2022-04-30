@@ -1,21 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/spells/mind-blank/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Wizard,","spellLevel":8,"school":"Abjuration","source":"PHB","permalink":"/spells/mind-blank/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Mind Blank
+*A 8th Level Abjuration Spell.*
 
-*8th-level abjuration*
+**Casting Time:** 1 Action
 
-**Casting Time:** 1 action
+**Range:** Point, Touch
 
-**Range:** Touch
+**Components:** V S 
 
-**Components:** V, S
+**Duration:** Timed, 24 Hours
 
-**Duration:** 24 hours
+Until the spell ends, one willing creature you touch is immune to psychic damage, any effect that would sense its emotions or read its thoughts, divination spells, and the {@condition charmed} condition. The spell even foils {@spell wish} spells and spells or effects of similar power used to affect the target's mind or to gain information about the target.
 
-Until the spell ends, one willing creature you touch is immune to psychic damage, any effect that would sense its emotions or read its thoughts, divination spells, and the charmed condition. The spell even foils *wish* spells and spells or effects of similar power used to affect the target's mind or to gain information about the target.
-
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

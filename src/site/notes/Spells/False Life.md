@@ -1,23 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/spells/false-life/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Sorcerer, Wizard, Artificer, Artificer (Revisited), Artificer,","spellLevel":1,"school":"Necromancy","source":"PHB","permalink":"/spells/false-life/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # False Life
+*A 1st Level Necromancy Spell.*
 
-*1st-level necromancy*
+**Casting Time:** 1 Action
 
-**Casting Time:** 1 action
+**Range:** Point, Self
 
-**Range:** Self
+**Components:** V S M(a small amount of alcohol or distilled spirits)
 
-**Components:** V, S, M (a small amount of alcohol or distilled spirits)
+**Duration:** Timed, 1 Hour
 
-**Duration:** 1 hour
+Bolstering yourself with a necromantic facsimile of life, you gain {@dice 1d4 + 4} temporary hit points for the duration.
 
-Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration.
+At Higher Levels
 
-***At Higher Levels***. When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st.
+When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st.
 
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

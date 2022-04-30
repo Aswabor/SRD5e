@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Paladin, Wizard, Artificer, Artificer (Revisited), Artificer,","spellLevel":2,"school":"Transmutation","source":"PHB","permalink":"/spells/magic-weapon/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Paladin, Wizard, Artificer,","spellLevel":2,"school":"Transmutation","source":"PHB","permalink":"/spells/magic-weapon/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Magic Weapon

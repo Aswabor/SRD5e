@@ -9,7 +9,7 @@
 
 **Range:** Point, Touch
 
-**Components:** V S 
+**Components:** V S M(mistletoe, which the spell consumes, that was harvested with a golden sickle under the light of a full moon)
 
 **Duration:** Timed, 24 Hours
 

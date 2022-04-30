@@ -9,7 +9,7 @@
 
 **Range:** Point, 10 Feet
 
-**Components:** V S 
+**Components:** V S M(10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier)
 
 **Duration:** Instant
 

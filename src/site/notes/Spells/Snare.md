@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Druid, Ranger, Wizard, Artificer (Revisited), Artificer,","spellLevel":1,"school":"Abjuration","source":"XGE","permalink":"/spells/snare/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Druid, Ranger, Wizard, Artificer,","spellLevel":1,"school":"Abjuration","source":"XGE","permalink":"/spells/snare/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Snare
@@ -9,7 +9,7 @@
 
 **Range:** Point, Touch
 
-**Components:** S 
+**Components:** S M(25 feet of rope, which the spell consumes)
 
 **Duration:** Timed, 8 Hours
 

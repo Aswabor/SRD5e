@@ -9,7 +9,7 @@
 
 **Range:** Point, 10 Feet
 
-**Components:** V 
+**Components:** V M(rare chalks and inks infused with precious gems worth 50 gp, which the spell consumes)
 
 **Duration:** Timed, 1 Round
 

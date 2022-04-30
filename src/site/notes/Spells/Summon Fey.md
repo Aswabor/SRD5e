@@ -9,7 +9,7 @@
 
 **Range:** Point, 90 Feet
 
-**Components:** V S 
+**Components:** V S M(a gilded flower worth at least 300 gp)
 
 **Duration:** Timed, 1 Hour
 

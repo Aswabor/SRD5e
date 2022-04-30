@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Sorcerer, Wizard, Artificer (Revisited), Artificer,","spellLevel":0,"school":"Transmutation","source":"PHB","permalink":"/spells/message/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Sorcerer, Wizard, Artificer,","spellLevel":0,"school":"Transmutation","source":"PHB","permalink":"/spells/message/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Message

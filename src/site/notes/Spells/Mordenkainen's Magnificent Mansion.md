@@ -9,7 +9,7 @@
 
 **Range:** Point, 300 Feet
 
-**Components:** V S 
+**Components:** V S M(a miniature portal carved from ivory, a small piece of polished marble, and a tiny silver spoon, each item worth at least 5 gp)
 
 **Duration:** Timed, 24 Hours
 

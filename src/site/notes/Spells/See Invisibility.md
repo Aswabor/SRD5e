@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Sorcerer, Wizard, Artificer (Revisited), Artificer,","spellLevel":2,"school":"Divination","source":"PHB","permalink":"/spells/see-invisibility/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Sorcerer, Wizard, Artificer,","spellLevel":2,"school":"Divination","source":"PHB","permalink":"/spells/see-invisibility/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # See Invisibility

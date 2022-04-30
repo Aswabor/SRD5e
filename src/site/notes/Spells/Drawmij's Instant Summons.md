@@ -9,7 +9,7 @@
 
 **Range:** Point, Touch
 
-**Components:** V S 
+**Components:** V S M(a sapphire worth 1,000 gp)
 
 **Duration:** Permanent
 

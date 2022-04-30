@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric, Druid, Artificer (Revisited), Artificer,","spellLevel":0,"school":"Divination","source":"PHB","permalink":"/spells/guidance/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric, Druid, Artificer,","spellLevel":0,"school":"Divination","source":"PHB","permalink":"/spells/guidance/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Guidance

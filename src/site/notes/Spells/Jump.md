@@ -1,24 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/spells/jump/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Druid, Ranger, Sorcerer, Wizard, Artificer, Artificer (Revisited), Artificer,","spellLevel":1,"school":"Transmutation","source":"PHB","permalink":"/spells/jump/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Jump
+*A 1st Level Transmutation Spell.*
 
-*1st-level transmutation*
+**Casting Time:** 1 Action
 
-**Casting Time:** 1 action
+**Range:** Point, Touch
 
-**Range:** Touch
+**Components:** V S M(a grasshopper's hind leg)
 
-**Components:** V, S, M (a grasshopper's hind leg)
+**Duration:** Timed, 1 Minute
 
-**Duration:** 1 minute
+You touch a creature. The creature's {@book jump distance|phb|8|Jumping} is tripled until the spell ends.
 
-You touch a creature. The creature's jump distance is tripled until the spell ends.
-
-
-
-[[Spells/Spells|Spells]]
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

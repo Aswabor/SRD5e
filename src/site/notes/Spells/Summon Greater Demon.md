@@ -9,7 +9,7 @@
 
 **Range:** Point, 60 Feet
 
-**Components:** V S 
+**Components:** V S M(a vial of blood from a humanoid killed within the past 24 hours)
 
 **Duration:** Timed, 1 Hour
 

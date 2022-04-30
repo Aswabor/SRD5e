@@ -9,7 +9,7 @@
 
 **Range:** Point, Touch
 
-**Components:** V S 
+**Components:** V S M(an agate worth at least 1,000 gp, which the spell consumes)
 
 **Duration:** Instant
 

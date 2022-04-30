@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Druid, Ranger, Sorcerer, Wizard, Artificer, Artificer (Revisited), Artificer,","spellLevel":3,"school":"Transmutation","source":"PHB","permalink":"/spells/water-breathing/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Druid, Ranger, Sorcerer, Wizard, Artificer,","spellLevel":3,"school":"Transmutation","source":"PHB","permalink":"/spells/water-breathing/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Water Breathing

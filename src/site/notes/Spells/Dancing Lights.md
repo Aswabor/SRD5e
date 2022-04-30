@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Sorcerer, Wizard, Artificer (Revisited), Artificer,","spellLevel":0,"school":"Evocation","source":"PHB","permalink":"/spells/dancing-lights/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Sorcerer, Wizard, Artificer,","spellLevel":0,"school":"Evocation","source":"PHB","permalink":"/spells/dancing-lights/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Dancing Lights

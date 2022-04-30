@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Druid, Wizard, Artificer (Revisited), Artificer,","spellLevel":5,"school":"Transmutation","source":"XGE","permalink":"/spells/transmute-rock/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Druid, Wizard, Artificer,","spellLevel":5,"school":"Transmutation","source":"XGE","permalink":"/spells/transmute-rock/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Transmute Rock

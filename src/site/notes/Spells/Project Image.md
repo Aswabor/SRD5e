@@ -9,7 +9,7 @@
 
 **Range:** Point, 500 Miles
 
-**Components:** V S 
+**Components:** V S M(a small replica of you made from materials worth at least 5 gp)
 
 **Duration:** Timed, 1 Day
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Ranger, Wizard, Artificer, Artificer (Revisited), Artificer,","spellLevel":1,"school":"Abjuration","source":"PHB","permalink":"/spells/alarm/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Ranger, Wizard, Artificer,","spellLevel":1,"school":"Abjuration","source":"PHB","permalink":"/spells/alarm/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Alarm

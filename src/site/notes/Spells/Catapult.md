@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Sorcerer, Wizard, Artificer (Revisited), Artificer,","spellLevel":1,"school":"Transmutation","source":"XGE","permalink":"/spells/catapult/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Sorcerer, Wizard, Artificer,","spellLevel":1,"school":"Transmutation","source":"XGE","permalink":"/spells/catapult/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Catapult

@@ -9,7 +9,7 @@
 
 **Range:** Point, Self
 
-**Components:** V S 
+**Components:** V S M(a tiny reliquary worth at least 1,000 gp containing a sacred relic, such as a scrap of cloth from a saint's robe or a piece of parchment from a religious text)
 
 **Duration:** Timed, 1 Minute
 

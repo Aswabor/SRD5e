@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Druid, Warlock, Artificer (Revisited), Artificer,","spellLevel":0,"school":"Transmutation","source":"XGE","permalink":"/spells/magic-stone/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Druid, Warlock, Artificer,","spellLevel":0,"school":"Transmutation","source":"XGE","permalink":"/spells/magic-stone/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Magic Stone

@@ -1,21 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/spells/feather-fall/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Sorcerer, Wizard, Artificer (Revisited), Artificer,","spellLevel":1,"school":"Transmutation","source":"PHB","permalink":"/spells/feather-fall/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Feather Fall
+*A 1st Level Transmutation Spell.*
 
-*1st-level transmutation*
+**Casting Time:** 1 Reaction
 
-**Casting Time:** 1 reaction, which you take when you or a creature within 60 feet of you falls
+**Range:** Point, 60 Feet
 
-**Range:** 60 feet
+**Components:** V M(a small feather or a piece of down)
 
-**Components:** V, M (a small feather or piece of down)
-
-**Duration:** 1 minute
+**Duration:** Timed, 1 Minute
 
 Choose up to five falling creatures within range. A falling creature's rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature.
 
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

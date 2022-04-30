@@ -1,23 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/spells/magic-weapon/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Paladin, Wizard, Artificer, Artificer (Revisited), Artificer,","spellLevel":2,"school":"Transmutation","source":"PHB","permalink":"/spells/magic-weapon/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Magic Weapon
+*A 2nd Level Transmutation Spell.*
 
-*2nd-level transmutation*
+**Casting Time:** 1 Bonus
 
-**Casting Time:** 1 bonus action
+**Range:** Point, Touch
 
-**Range:** Touch
+**Components:** V S 
 
-**Components:** V, S
-
-**Duration:** Concentration, up to 1 hour
+**Duration:** Timed, 1 Hour
 
 You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls.
 
-***At Higher Levels***. When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. When you use a spell slot of 6th level or higher, the bonus increases to +3.
+At Higher Levels
 
+When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. When you use a spell slot of 6th level or higher, the bonus increases to +3.
 
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

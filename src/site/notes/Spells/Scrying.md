@@ -9,7 +9,7 @@
 
 **Range:** Point, Self
 
-**Components:** V S 
+**Components:** V S M(a focus worth at least 1,000 gp, such as a crystal ball, a silver mirror, or a font filled with holy water)
 
 **Duration:** Timed, 10 Minutes
 

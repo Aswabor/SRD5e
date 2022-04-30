@@ -9,7 +9,7 @@
 
 **Range:** Point, 10 Feet
 
-**Components:** V S 
+**Components:** V S M(holy water or powdered silver and iron worth at least 100 gp, which the spell consumes)
 
 **Duration:** Timed, 1 Hour
 

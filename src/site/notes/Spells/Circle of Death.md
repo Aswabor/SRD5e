@@ -9,7 +9,7 @@
 
 **Range:** Point, 150 Feet
 
-**Components:** V S 
+**Components:** V S M(the powder of a crushed black pearl worth at least 500 gp)
 
 **Duration:** Instant
 

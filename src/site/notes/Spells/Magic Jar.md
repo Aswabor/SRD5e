@@ -9,7 +9,7 @@
 
 **Range:** Point, Self
 
-**Components:** V S 
+**Components:** V S M(a gem, crystal, reliquary, or some other ornamental container worth at least 500 gp)
 
 **Duration:** Permanent
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Sorcerer, Wizard, Artificer, Artificer (Revisited), Artificer,","spellLevel":2,"school":"Illusion","source":"PHB","permalink":"/spells/blur/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Sorcerer, Wizard, Artificer,","spellLevel":2,"school":"Illusion","source":"PHB","permalink":"/spells/blur/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Blur

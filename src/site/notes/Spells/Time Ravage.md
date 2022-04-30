@@ -9,7 +9,7 @@
 
 **Range:** Point, 90 Feet
 
-**Components:** V S 
+**Components:** V S M(an hourglass filled with diamond dust worth at least 5,000 gp, which the spell consumes)
 
 **Duration:** Instant
 

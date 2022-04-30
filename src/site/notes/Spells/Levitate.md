@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Sorcerer, Wizard, Artificer (Revisited), Artificer,","spellLevel":2,"school":"Transmutation","source":"PHB","permalink":"/spells/levitate/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Sorcerer, Wizard, Artificer,","spellLevel":2,"school":"Transmutation","source":"PHB","permalink":"/spells/levitate/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Levitate

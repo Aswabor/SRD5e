@@ -9,7 +9,7 @@
 
 **Range:** Point, 60 Feet
 
-**Components:** V S 
+**Components:** V S M(a tiny silver cage worth 100 gp)
 
 **Duration:** Timed, 8 Hours
 

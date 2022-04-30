@@ -9,7 +9,7 @@
 
 **Range:** Point, 150 Feet
 
-**Components:** V S 
+**Components:** V S M(a shard of onyx and a drop of the caster's blood, both of which the spell consumes)
 
 **Duration:** Timed, 1 Minute
 

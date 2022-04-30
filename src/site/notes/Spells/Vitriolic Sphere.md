@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Sorcerer, Wizard, Artificer (Revisited),","spellLevel":4,"school":"Evocation","source":"XGE","permalink":"/spells/vitriolic-sphere/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Sorcerer, Wizard,","spellLevel":4,"school":"Evocation","source":"XGE","permalink":"/spells/vitriolic-sphere/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Vitriolic Sphere

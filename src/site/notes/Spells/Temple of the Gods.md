@@ -9,7 +9,7 @@
 
 **Range:** Point, 120 Feet
 
-**Components:** V S 
+**Components:** V S M(a holy symbol worth at least 5 gp)
 
 **Duration:** Timed, 24 Hours
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Sorcerer, Warlock, Wizard, Artificer, Artificer (Revisited),","spellLevel":3,"school":"Transmutation","source":"PHB","permalink":"/spells/gaseous-form/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Sorcerer, Warlock, Wizard,","spellLevel":3,"school":"Transmutation","source":"PHB","permalink":"/spells/gaseous-form/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Gaseous Form

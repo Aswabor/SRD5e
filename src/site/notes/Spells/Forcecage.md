@@ -9,7 +9,7 @@
 
 **Range:** Point, 100 Feet
 
-**Components:** V S 
+**Components:** V S M(ruby dust worth 1,500 gp)
 
 **Duration:** Timed, 1 Hour
 

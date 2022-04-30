@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric, Druid, Wizard, Artificer, Artificer (Revisited), Artificer,","spellLevel":4,"school":"Transmutation","source":"PHB","permalink":"/spells/stone-shape/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric, Druid, Wizard, Artificer,","spellLevel":4,"school":"Transmutation","source":"PHB","permalink":"/spells/stone-shape/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Stone Shape

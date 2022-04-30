@@ -1,26 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/spells/greater-restoration/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Cleric, Druid, Artificer (Revisited), Artificer,","spellLevel":5,"school":"Abjuration","source":"PHB","permalink":"/spells/greater-restoration/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Greater Restoration
+*A 5th Level Abjuration Spell.*
 
-*5th-level abjuration*
+**Casting Time:** 1 Action
 
-**Casting Time:** 1 action
+**Range:** Point, Touch
 
-**Range:** Touch
+**Components:** V S 
 
-**Components:** V, S, M (diamond dust worth at least 100 gp, which the spell consumes)
+**Duration:** Instant
 
-**Duration:** Instantaneous
+You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's {@condition exhaustion} level by one, or end one of the following effects on the target:
 
-You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's exhaustion level by one, or end one of the following effects on the target:
-
-- One effect that charmed or petrified the target
-- One curse, including the target's attunement to a cursed magic item
-- Any reduction to one of the target's ability scores
-- One effect reducing the target's hit point maximum
-
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

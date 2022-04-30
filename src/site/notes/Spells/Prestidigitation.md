@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Sorcerer, Warlock, Wizard, Artificer (Revisited), Artificer,","spellLevel":0,"school":"Transmutation","source":"PHB","permalink":"/spells/prestidigitation/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Sorcerer, Warlock, Wizard, Artificer,","spellLevel":0,"school":"Transmutation","source":"PHB","permalink":"/spells/prestidigitation/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Prestidigitation

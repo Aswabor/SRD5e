@@ -9,7 +9,7 @@
 
 **Range:** Point, 90 Feet
 
-**Components:** V S 
+**Components:** V S M(an ornate stone and metal lockbox worth at least 400 gp)
 
 **Duration:** Timed, 1 Hour
 

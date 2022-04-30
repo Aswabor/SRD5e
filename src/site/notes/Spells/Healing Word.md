@@ -1,23 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/spells/healing-word/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Cleric, Druid,","spellLevel":1,"school":"Evocation","source":"PHB","permalink":"/spells/healing-word/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Healing Word
+*A 1st Level Evocation Spell.*
 
-*1st-level evocation*
+**Casting Time:** 1 Bonus
 
-**Casting Time:** 1 bonus action
+**Range:** Point, 60 Feet
 
-**Range:** 60 feet
+**Components:** V 
 
-**Components:** V
+**Duration:** Instant
 
-**Duration:** Instantaneous
+A creature of your choice that you can see within range regains hit points equal to {@dice 1d4} + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
-A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+At Higher Levels
 
-***At Higher Levels***. When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st.
+When you cast this spell using a spell slot of 2nd level or higher, the healing increases by {@scaledice 1d4|1-9|1d4} for each slot level above 1st.
 
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

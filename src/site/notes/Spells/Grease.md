@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Wizard, Artificer (Revisited), Artificer,","spellLevel":1,"school":"Conjuration","source":"PHB","permalink":"/spells/grease/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Wizard, Artificer,","spellLevel":1,"school":"Conjuration","source":"PHB","permalink":"/spells/grease/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Grease

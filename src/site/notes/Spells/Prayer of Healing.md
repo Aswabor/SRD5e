@@ -1,23 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/spells/prayer-of-healing/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric,","spellLevel":2,"school":"Evocation","source":"PHB","permalink":"/spells/prayer-of-healing/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Prayer of Healing
+*A 2nd Level Evocation Spell.*
 
-*2nd-level evocation*
+**Casting Time:** 10 Minute
 
-**Casting Time:** 10 minutes
+**Range:** Point, 30 Feet
 
-**Range:** 30 feet
+**Components:** V 
 
-**Components:** V
+**Duration:** Instant
 
-**Duration:** Instantaneous
+Up to six creatures of your choice that you can see within range each regain hit points equal to {@dice 2d8} + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
-Up to six creatures of your choice that you can see within range each regain hit points equal to 2d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+At Higher Levels
 
-***At Higher Levels***. When you cast this spell using a spell slot of 3rd level or higher, the healing increases by 1d8 for each slot level above 2nd.
+When you cast this spell using a spell slot of 3rd level or higher, the healing increases by {@scaledice 2d8|2-9|1d8} for each slot level above 2nd.
 
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

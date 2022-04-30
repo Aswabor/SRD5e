@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric, Paladin, Artificer,","spellLevel":1,"school":"Abjuration","source":"PHB","permalink":"/spells/shield-of-faith/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric, Paladin,","spellLevel":1,"school":"Abjuration","source":"PHB","permalink":"/spells/shield-of-faith/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Shield of Faith

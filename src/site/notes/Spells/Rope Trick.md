@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Wizard, Artificer, Artificer (Revisited), Artificer,","spellLevel":2,"school":"Transmutation","source":"PHB","permalink":"/spells/rope-trick/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Wizard, Artificer,","spellLevel":2,"school":"Transmutation","source":"PHB","permalink":"/spells/rope-trick/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Rope Trick

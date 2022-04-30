@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Sorcerer, Wizard, Artificer, Artificer (Revisited), Artificer,","spellLevel":1,"school":"Illusion","source":"PHB","permalink":"/spells/disguise-self/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Sorcerer, Wizard, Artificer,","spellLevel":1,"school":"Illusion","source":"PHB","permalink":"/spells/disguise-self/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Disguise Self

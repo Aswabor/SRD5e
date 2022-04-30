@@ -9,7 +9,7 @@
 
 **Range:** Point, Touch
 
-**Components:** V S 
+**Components:** V S M(a pinch of diamond dust worth 25 gp sprinkled over the target, which the spell consumes)
 
 **Duration:** Timed, 8 Hours
 

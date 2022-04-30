@@ -9,7 +9,7 @@
 
 **Range:** Point, Self
 
-**Components:** V S 
+**Components:** V S M(incense worth at least 250 gp, which the spell consumes, and four ivory strips worth at least 50 gp each)
 
 **Duration:** Instant
 

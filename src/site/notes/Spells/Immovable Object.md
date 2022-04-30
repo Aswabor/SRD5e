@@ -9,7 +9,7 @@
 
 **Range:** Point, Touch
 
-**Components:** V S 
+**Components:** V S M(gold dust worth at least 25 gp, which the spell consumes)
 
 **Duration:** Timed, 1 Hour
 

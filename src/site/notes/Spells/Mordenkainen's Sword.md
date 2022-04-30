@@ -9,7 +9,7 @@
 
 **Range:** Point, 60 Feet
 
-**Components:** V S 
+**Components:** V S M(a miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp)
 
 **Duration:** Timed, 1 Minute
 

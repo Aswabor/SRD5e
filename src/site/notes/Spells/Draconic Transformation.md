@@ -9,7 +9,7 @@
 
 **Range:** Point, Self
 
-**Components:** V S 
+**Components:** V S M(a statuette of a dragon, worth at least 500 gp)
 
 **Duration:** Timed, 1 Minute
 

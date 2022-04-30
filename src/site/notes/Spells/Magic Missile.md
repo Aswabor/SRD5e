@@ -1,23 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/spells/magic-missile/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Sorcerer, Wizard,","spellLevel":1,"school":"Evocation","source":"PHB","permalink":"/spells/magic-missile/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Magic Missile
+*A 1st Level Evocation Spell.*
 
-*1st-level evocation*
+**Casting Time:** 1 Action
 
-**Casting Time:** 1 action
+**Range:** Point, 120 Feet
 
-**Range:** 120 feet
+**Components:** V S 
 
-**Components:** V, S
+**Duration:** Instant
 
-**Duration:** Instantaneous
+You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals {@damage 1d4 + 1} force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
 
-You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
+At Higher Levels
 
-***At Higher Levels***. When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot level above 1st.
+When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot level above 1st.
 
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

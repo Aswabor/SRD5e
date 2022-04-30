@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Druid, Wizard, Artificer (Revisited), Artificer,","spellLevel":2,"school":"Transmutation","source":"XGE","permalink":"/spells/skywrite/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Druid, Wizard, Artificer,","spellLevel":2,"school":"Transmutation","source":"XGE","permalink":"/spells/skywrite/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Skywrite

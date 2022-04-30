@@ -1,21 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/spells/shield-of-faith/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric, Paladin, Artificer,","spellLevel":1,"school":"Abjuration","source":"PHB","permalink":"/spells/shield-of-faith/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Shield of Faith
+*A 1st Level Abjuration Spell.*
 
-*1st-level abjuration*
+**Casting Time:** 1 Bonus
 
-**Casting Time:** 1 bonus action
+**Range:** Point, 60 Feet
 
-**Range:** 60 feet
+**Components:** V S M(a small parchment with a bit of holy text written on it)
 
-**Components:** V, S, M (a small parchment with a bit of holy text written on it)
-
-**Duration:** Concentration, up to 10 minutes
+**Duration:** Timed, 10 Minutes
 
 A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
 
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

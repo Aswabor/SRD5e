@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric, Druid, Ranger, Sorcerer, Wizard, Artificer, Artificer (Revisited), Artificer,","spellLevel":3,"school":"Abjuration","source":"PHB","permalink":"/spells/protection-from-energy/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric, Druid, Ranger, Sorcerer, Wizard, Artificer,","spellLevel":3,"school":"Abjuration","source":"PHB","permalink":"/spells/protection-from-energy/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Protection from Energy

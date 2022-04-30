@@ -9,7 +9,7 @@
 
 **Range:** Point, 1 Miles
 
-**Components:** V S 
+**Components:** V S M(a focus worth at least 100 gp, either a jeweled horn for hearing or a glass eye for seeing)
 
 **Duration:** Timed, 10 Minutes
 

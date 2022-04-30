@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric, Artificer, Artificer (Revisited), Artificer,","spellLevel":1,"school":"Abjuration","source":"PHB","permalink":"/spells/sanctuary/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric, Artificer,","spellLevel":1,"school":"Abjuration","source":"PHB","permalink":"/spells/sanctuary/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Sanctuary

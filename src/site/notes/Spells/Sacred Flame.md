@@ -1,23 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/spells/sacred-flame/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric,","spellLevel":0,"school":"Evocation","source":"PHB","permalink":"/spells/sacred-flame/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Sacred Flame
+*A Evocation Cantrip.*
 
-*Evocation cantrip*
+**Casting Time:** 1 Action
 
-**Casting Time:** 1 action
+**Range:** Point, 60 Feet
 
-**Range:** 60 feet
+**Components:** V S 
 
-**Components:** V, S
+**Duration:** Instant
 
-**Duration:** Instantaneous
+Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take {@damage 1d8} radiant damage. The target gains no benefit from cover for this saving throw.
 
-Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 radiant damage. The target gains no benefit from cover for this saving throw.
-
-The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
-
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

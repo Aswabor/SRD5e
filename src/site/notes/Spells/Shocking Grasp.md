@@ -1,23 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/spells/shocking-grasp/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Sorcerer, Wizard, Artificer (Revisited), Artificer,","spellLevel":0,"school":"Evocation","source":"PHB","permalink":"/spells/shocking-grasp/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Shocking Grasp
+*A Evocation Cantrip.*
 
-*Evocation cantrip*
+**Casting Time:** 1 Action
 
-**Casting Time:** 1 action
+**Range:** Point, Touch
 
-**Range:** Touch
+**Components:** V S 
 
-**Components:** V, S
+**Duration:** Instant
 
-**Duration:** Instantaneous
+Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against the target. You have advantage on the attack roll if the target is wearing armor made of metal. On a hit, the target takes {@damage 1d8} lightning damage, and it can't take reactions until the start of its next turn.
 
-Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against the target. You have advantage on the attack roll if the target is wearing armor made of metal. On a hit, the target takes 1d8 lightning damage, and it can't take reactions until the start of its next turn.
-
-The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
-
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

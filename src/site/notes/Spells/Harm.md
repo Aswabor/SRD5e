@@ -1,21 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/spells/harm/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric,","spellLevel":6,"school":"Necromancy","source":"PHB","permalink":"/spells/harm/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Harm
+*A 6th Level Necromancy Spell.*
 
-*6th-level necromancy*
+**Casting Time:** 1 Action
 
-**Casting Time:** 1 action
+**Range:** Point, 60 Feet
 
-**Range:** 60 feet
+**Components:** V S 
 
-**Components:** V, S
+**Duration:** Instant
 
-**Duration:** Instantaneous
+You unleash a virulent disease on a creature that you can see within range. The target must make a Constitution saving throw. On a failed save, it takes {@damage 14d6} necrotic damage, or half as much damage on a successful save. The damage can't reduce the target's hit points below 1. If the target fails the saving throw, its hit point maximum is reduced for 1 hour by an amount equal to the necrotic damage it took. Any effect that removes a disease allows a creature's hit point maximum to return to normal before that time passes.
 
-You unleash a virulent disease on a creature that you can see within range. The target must make a Constitution saving throw. On a failed save, it takes 14d6 necrotic damage, or half as much damage on a successful save. The damage can't reduce the target's hit points below 1. If the target fails the saving throw, its hit point maximum is reduced for 1 hour by an amount equal to the necrotic damage it took. Any effect that removes a disease allows a creature's hit point maximum to return to normal before that time passes.
-
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

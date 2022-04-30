@@ -1,23 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/spells/power-word-stun/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Sorcerer, Warlock, Wizard,","spellLevel":8,"school":"Enchantment","source":"PHB","permalink":"/spells/power-word-stun/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Power Word Stun
+*A 8th Level Enchantment Spell.*
 
-*8th-level enchantment*
+**Casting Time:** 1 Action
 
-**Casting Time:** 1 action
+**Range:** Point, 60 Feet
 
-**Range:** 60 feet
+**Components:** V 
 
-**Components:** V
+**Duration:** Instant
 
-**Duration:** Instantaneous
+You speak a word of power that can overwhelm the mind of one creature you can see within range, leaving it dumbfounded. If the target has 150 hit points or fewer, it is {@condition stunned}. Otherwise, the spell has no effect.
 
-You speak a word of power that can overwhelm the mind of one creature you can see within range, leaving it dumbfounded. If the target has 150 hit points or fewer, it is stunned. Otherwise, the spell has no effect.
-
-The stunned target must make a Constitution saving throw at the end of each of its turns. On a successful save, this stunning effect ends.
-
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Cleric, Druid, Paladin, Sorcerer, Warlock, Wizard, Artificer (Revisited), Artificer,","spellLevel":3,"school":"Abjuration","source":"PHB","permalink":"/spells/dispel-magic/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Cleric, Druid, Paladin, Sorcerer, Warlock, Wizard, Artificer,","spellLevel":3,"school":"Abjuration","source":"PHB","permalink":"/spells/dispel-magic/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Dispel Magic

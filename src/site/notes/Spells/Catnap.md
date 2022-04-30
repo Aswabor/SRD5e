@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Sorcerer, Wizard, Artificer (Revisited), Artificer,","spellLevel":3,"school":"Enchantment","source":"XGE","permalink":"/spells/catnap/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Sorcerer, Wizard, Artificer,","spellLevel":3,"school":"Enchantment","source":"XGE","permalink":"/spells/catnap/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Catnap

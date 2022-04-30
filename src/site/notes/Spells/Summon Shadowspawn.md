@@ -9,7 +9,7 @@
 
 **Range:** Point, 90 Feet
 
-**Components:** V S 
+**Components:** V S M(tears inside a gem worth at least 300 gp)
 
 **Duration:** Timed, 1 Hour
 

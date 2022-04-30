@@ -1,21 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/spells/revivify/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric, Paladin, Artificer, Artificer (Revisited), Artificer,","spellLevel":3,"school":"Necromancy","source":"PHB","permalink":"/spells/revivify/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Revivify
+*A 3rd Level Necromancy Spell.*
 
-*3rd-level necromancy*
+**Casting Time:** 1 Action
 
-**Casting Time:** 1 action
+**Range:** Point, Touch
 
-**Range:** Touch
+**Components:** V S 
 
-**Components:** V, S, M (diamonds worth 300 gp, which the spell consumes)
-
-**Duration:** Instantaneous
+**Duration:** Instant
 
 You touch a creature that has died within the last minute. That creature returns to life with 1 hit point. This spell can't return to life a creature that has died of old age, nor can it restore any missing body parts.
 
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

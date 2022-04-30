@@ -14,13 +14,7 @@
 **Duration:** Instant
 
 You either create or destroy water.
-
-
-
 {'type': 'entries', 'name': 'Create Water', 'entries': ['You create up to 10 gallons of clean water within range in an open container. Alternatively, the water falls as rain in a 30-foot cube within range, extinguishing exposed flames in the area.']}
-
-
-
 {'type': 'entries', 'name': 'Destroy Water', 'entries': ['You destroy up to 10 gallons of water in an open container within range. Alternatively, you destroy fog in a 30-foot cube within range.']}
 
 At Higher Levels

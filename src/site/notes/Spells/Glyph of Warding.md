@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Cleric, Wizard, Artificer, Artificer (Revisited), Artificer,","spellLevel":3,"school":"Abjuration","source":"PHB","permalink":"/spells/glyph-of-warding/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Cleric, Wizard, Artificer,","spellLevel":3,"school":"Abjuration","source":"PHB","permalink":"/spells/glyph-of-warding/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Glyph of Warding
@@ -9,7 +9,7 @@
 
 **Range:** Point, Touch
 
-**Components:** V S 
+**Components:** V S M(incense and powdered diamond worth at least 200 gp, which the spell consumes)
 
 **Duration:** Permanent
 

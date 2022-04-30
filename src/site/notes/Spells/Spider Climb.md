@@ -1,21 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/spells/spider-climb/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Sorcerer, Warlock, Wizard, Artificer, Artificer (Revisited), Artificer,","spellLevel":2,"school":"Transmutation","source":"PHB","permalink":"/spells/spider-climb/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Spider Climb
+*A 2nd Level Transmutation Spell.*
 
-*2nd-level transmutation*
+**Casting Time:** 1 Action
 
-**Casting Time:** 1 action
+**Range:** Point, Touch
 
-**Range:** Touch
+**Components:** V S M(a drop of bitumen and a spider)
 
-**Components:** V, S, M (a drop of bitumen and a spider)
-
-**Duration:** Concentration, up to 1 hour
+**Duration:** Timed, 1 Hour
 
 Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. The target also gains a climbing speed equal to its walking speed.
 
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

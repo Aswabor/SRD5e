@@ -1,24 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/spells/purify-food-and-drink/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric, Druid, Paladin, Artificer,","spellLevel":1,"school":"Transmutation","source":"PHB","permalink":"/spells/purify-food-and-drink/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Purify Food and Drink
+*A 1st Level Transmutation Spell.*
 
-*1st-level transmutation (ritual)*
+**Casting Time:** 1 Action
 
-**Casting Time:** 1 action
+**Range:** Point, 10 Feet
 
-**Range:** 10 feet
+**Components:** V S 
 
-**Components:** V, S
+**Duration:** Instant
 
-**Duration:** Instantaneous
+All nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.
 
-All nonmagical food and drink within a 5-foot radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.
-
-
-
-[[Spells/Spells|Spells]]
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

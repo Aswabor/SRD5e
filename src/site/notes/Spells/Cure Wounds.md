@@ -1,26 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/spells/cure-wounds/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Cleric, Druid, Paladin, Ranger, Artificer, Artificer (Revisited), Artificer,","spellLevel":1,"school":"Evocation","source":"PHB","permalink":"/spells/cure-wounds/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Cure Wounds
+*A 1st Level Evocation Spell.*
 
-*1st-level evocation*
+**Casting Time:** 1 Action
 
-**Casting Time:** 1 action
+**Range:** Point, Touch
 
-**Range:** Touch
+**Components:** V S 
 
-**Components:** V, S
+**Duration:** Instant
 
-**Duration:** Instantaneous
+A creature you touch regains a number of hit points equal to {@dice 1d8} + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
-A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+At Higher Levels
 
-***At Higher Levels***. When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
+When you cast this spell using a spell slot of 2nd level or higher, the healing increases by {@scaledice 1d8|1-9|1d8} for each slot level above 1st.
 
-
-
-[[Spells/Spells|Spells]]
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

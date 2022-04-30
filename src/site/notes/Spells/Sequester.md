@@ -9,7 +9,7 @@
 
 **Range:** Point, Touch
 
-**Components:** V S 
+**Components:** V S M(a powder composed of diamond, emerald, ruby, and sapphire dust worth at least 5,000 gp, which the spell consumes)
 
 **Duration:** Permanent
 

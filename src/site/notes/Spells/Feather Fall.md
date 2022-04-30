@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Sorcerer, Wizard, Artificer (Revisited), Artificer,","spellLevel":1,"school":"Transmutation","source":"PHB","permalink":"/spells/feather-fall/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Sorcerer, Wizard, Artificer,","spellLevel":1,"school":"Transmutation","source":"PHB","permalink":"/spells/feather-fall/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Feather Fall

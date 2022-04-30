@@ -9,7 +9,7 @@
 
 **Range:** Point, 60 Feet
 
-**Components:** V S 
+**Components:** V S M(a sunburst pendant worth at least 100 gp)
 
 **Duration:** Timed, 1 Minute
 

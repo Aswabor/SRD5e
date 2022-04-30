@@ -10,6 +10,7 @@
 - [[Spellcasting/Rituals|Rituals]]
 - [[Spellcasting/Spell Attack Rolls|Spell Attack Rolls]]
 - [[Spellcasting/Spell Saving Throws|Spell Saving Throws]]
+- [[Spellcasting/Spells|Spells]]
 
 Magic permeates fantasy gaming worlds and often appears in the form of a spell.
 

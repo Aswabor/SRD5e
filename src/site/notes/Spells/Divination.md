@@ -9,7 +9,7 @@
 
 **Range:** Point, Self
 
-**Components:** V S 
+**Components:** V S M(incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp, which the spell consumes)
 
 **Duration:** Instant
 

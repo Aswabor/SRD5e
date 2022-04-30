@@ -12,7 +12,7 @@
 - [[Adventuring/Adventuring|Adventuring]]
 - [[Combat/Combat|Combat]]
 - [[Spellcasting/Spellcasting|Spellcasting]]
-- [[Spells/Spells|Spells]]
+- [[Spellcasting/Spells|Spells]]
 - [[Gamemastering/Gamemastering|Gamemastering]]
 - [[Treasure/Treasure|Treasure]]
 - [[Monsters/Monsters|Monsters]]

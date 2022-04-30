@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Cleric, Druid, Paladin, Ranger, Artificer, Artificer (Revisited), Artificer,","spellLevel":1,"school":"Evocation","source":"PHB","permalink":"/spells/cure-wounds/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Cleric, Druid, Paladin, Ranger, Artificer,","spellLevel":1,"school":"Evocation","source":"PHB","permalink":"/spells/cure-wounds/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Cure Wounds

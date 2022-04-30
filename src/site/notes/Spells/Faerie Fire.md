@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Druid, Artificer (Revisited), Artificer,","spellLevel":1,"school":"Evocation","source":"PHB","permalink":"/spells/faerie-fire/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Druid, Artificer,","spellLevel":1,"school":"Evocation","source":"PHB","permalink":"/spells/faerie-fire/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Faerie Fire

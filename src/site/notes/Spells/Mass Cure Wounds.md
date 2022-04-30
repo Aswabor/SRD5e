@@ -1,23 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/spells/mass-cure-wounds/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Cleric, Druid,","spellLevel":5,"school":"Evocation","source":"PHB","permalink":"/spells/mass-cure-wounds/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Mass Cure Wounds
+*A 5th Level Evocation Spell.*
 
-*5th-level evocation*
+**Casting Time:** 1 Action
 
-**Casting Time:** 1 action
+**Range:** Point, 60 Feet
 
-**Range:** 60 feet
+**Components:** V S 
 
-**Components:** V, S
+**Duration:** Instant
 
-**Duration:** Instantaneous
+A wave of healing energy washes out from a point of your choice within range. Choose up to six creatures in a 30-foot-radius sphere centered on that point. Each target regains hit points equal to {@dice 3d8} + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
-A wave of healing energy washes out from a point of your choice within range. Choose up to six creatures in a 30-foot radius sphere centered on that point. Each target regains hit points equal to 3d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+At Higher Levels
 
-***At Higher Levels***. When you cast this spell using a spell slot of 6th level or higher, the healing increases by 1d8 for each slot level above 5th.
+When you cast this spell using a spell slot of 6th level or higher, the healing increases by {@scaledice 3d8|5-9|1d8} for each slot level above 5th.
 
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

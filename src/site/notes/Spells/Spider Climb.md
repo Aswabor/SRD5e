@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Sorcerer, Warlock, Wizard, Artificer, Artificer (Revisited), Artificer,","spellLevel":2,"school":"Transmutation","source":"PHB","permalink":"/spells/spider-climb/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Sorcerer, Warlock, Wizard, Artificer,","spellLevel":2,"school":"Transmutation","source":"PHB","permalink":"/spells/spider-climb/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Spider Climb

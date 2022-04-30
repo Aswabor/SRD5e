@@ -2,6 +2,7 @@
 {"dg-publish":true,"aliases":null,"tags":null,"Done":true,"permalink":"/spellcasting/spells/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
+[[DnD-5E-SRD|DnD-5E-SRD]]
 # Spells
 - [[Spells/Absorb Elements|Absorb Elements]]
 - [[Spells/Abi-Dalzim's Horrid Wilting|Abi-Dalzim's Horrid Wilting]]

@@ -9,7 +9,7 @@
 
 **Range:** Point, Self
 
-**Components:** V S 
+**Components:** V S M(specially marked sticks, bones, or similar tokens worth at least 25 gp)
 
 **Duration:** Instant
 

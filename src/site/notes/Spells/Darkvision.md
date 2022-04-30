@@ -1,21 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/spells/darkvision/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Druid, Ranger, Sorcerer, Wizard, Artificer, Artificer (Revisited), Artificer,","spellLevel":2,"school":"Transmutation","source":"PHB","permalink":"/spells/darkvision/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Darkvision
+*A 2nd Level Transmutation Spell.*
 
-*2nd-level transmutation*
+**Casting Time:** 1 Action
 
-**Casting Time:** 1 action
+**Range:** Point, Touch
 
-**Range:** Touch
+**Components:** V S M(either a pinch of dried carrot or an agate)
 
-**Components:** V, S, M (either a pinch of dried carrot or an agate)
+**Duration:** Timed, 8 Hours
 
-**Duration:** 8 hours
+You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has {@sense darkvision} out to a range of 60 feet.
 
-You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has darkvision out to a range of 60 feet.
-
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

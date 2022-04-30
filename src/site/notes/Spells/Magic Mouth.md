@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Wizard, Artificer (Revisited), Artificer,","spellLevel":2,"school":"Illusion","source":"PHB","permalink":"/spells/magic-mouth/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Wizard, Artificer,","spellLevel":2,"school":"Illusion","source":"PHB","permalink":"/spells/magic-mouth/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Magic Mouth
@@ -9,7 +9,7 @@
 
 **Range:** Point, 30 Feet
 
-**Components:** V S 
+**Components:** V S M(a small bit of honeycomb and jade dust worth at least 10 gp, which the spell consumes)
 
 **Duration:** Permanent
 

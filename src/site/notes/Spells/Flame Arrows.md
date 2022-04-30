@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Druid, Ranger, Sorcerer, Wizard, Artificer (Revisited), Artificer,","spellLevel":3,"school":"Transmutation","source":"XGE","permalink":"/spells/flame-arrows/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Druid, Ranger, Sorcerer, Wizard, Artificer,","spellLevel":3,"school":"Transmutation","source":"XGE","permalink":"/spells/flame-arrows/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Flame Arrows

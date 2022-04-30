@@ -9,7 +9,7 @@
 
 **Range:** Point, 60 Feet
 
-**Components:** V S 
+**Components:** V S M(a diamond worth at least 5,000 gp)
 
 **Duration:** Timed, 1 Minute
 

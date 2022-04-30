@@ -1,21 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/spells/stoneskin/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Druid, Ranger, Sorcerer, Wizard, Artificer, Artificer (Revisited), Artificer,","spellLevel":4,"school":"Abjuration","source":"PHB","permalink":"/spells/stoneskin/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Stoneskin
+*A 4th Level Abjuration Spell.*
 
-*4th-level abjuration*
+**Casting Time:** 1 Action
 
-**Casting Time:** 1 action
+**Range:** Point, Touch
 
-**Range:** Touch
+**Components:** V S 
 
-**Components:** V, S, M (diamond dust worth 100 gp, which the spell consumes)
-
-**Duration:** Concentration, up to 1 hour
+**Duration:** Timed, 1 Hour
 
 This spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has resistance to nonmagical bludgeoning, piercing, and slashing damage.
 
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

@@ -9,7 +9,7 @@
 
 **Range:** Point, 30 Feet
 
-**Components:** V S 
+**Components:** V S M(a gem-encrusted bowl worth at least 1,000 gp, which the spell consumes)
 
 **Duration:** Instant
 

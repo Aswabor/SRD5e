@@ -9,7 +9,7 @@
 
 **Range:** Point, Touch
 
-**Components:** S 
+**Components:** S M(a lead-based ink worth at least 10 gp, which the spell consumes)
 
 **Duration:** Timed, 10 Days
 

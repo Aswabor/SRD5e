@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Druid, Sorcerer, Warlock, Wizard, Artificer (Revisited), Artificer,","spellLevel":0,"school":"Evocation","source":"XGE","permalink":"/spells/thunderclap/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Druid, Sorcerer, Warlock, Wizard, Artificer,","spellLevel":0,"school":"Evocation","source":"XGE","permalink":"/spells/thunderclap/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Thunderclap

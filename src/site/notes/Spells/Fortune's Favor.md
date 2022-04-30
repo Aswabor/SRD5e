@@ -9,7 +9,7 @@
 
 **Range:** Point, 60 Feet
 
-**Components:** V S 
+**Components:** V S M(a white pearl worth at least 100 gp, which the spell consumes)
 
 **Duration:** Timed, 1 Hour
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Wizard, Artificer, Artificer (Revisited), Artificer,","spellLevel":4,"school":"Abjuration","source":"PHB","permalink":"/spells/mordenkainen-s-private-sanctum/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Wizard, Artificer,","spellLevel":4,"school":"Abjuration","source":"PHB","permalink":"/spells/mordenkainen-s-private-sanctum/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Mordenkainen's Private Sanctum

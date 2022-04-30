@@ -1,21 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/spells/expeditious-retreat/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Sorcerer, Warlock, Wizard, Artificer, Artificer (Revisited), Artificer,","spellLevel":1,"school":"Transmutation","source":"PHB","permalink":"/spells/expeditious-retreat/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Expeditious Retreat
+*A 1st Level Transmutation Spell.*
 
-*1st-level transmutation*
+**Casting Time:** 1 Bonus
 
-**Casting Time:** 1 bonus action
+**Range:** Point, Self
 
-**Range:** Self
+**Components:** V S 
 
-**Components:** V, S
+**Duration:** Timed, 10 Minutes
 
-**Duration:** Concentration, up to 10 minutes
+This spell allows you to move at an incredible pace. When you cast this spell, and then as a bonus action on each of your turns until the spell ends, you can take the {@action Dash} action.
 
-This spell allows you to move at an incredible pace. When you cast this spell, and then as a bonus action on each of your turns until the spell ends, you can take the Dash action.
-
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Druid, Artificer (Revisited), Artificer,","spellLevel":0,"school":"Transmutation","source":"PHB","permalink":"/spells/thorn-whip/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Druid, Artificer,","spellLevel":0,"school":"Transmutation","source":"PHB","permalink":"/spells/thorn-whip/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Thorn Whip

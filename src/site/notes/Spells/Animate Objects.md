@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Sorcerer, Wizard, Artificer (Revisited), Artificer,","spellLevel":5,"school":"Transmutation","source":"PHB","permalink":"/spells/animate-objects/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Sorcerer, Wizard, Artificer,","spellLevel":5,"school":"Transmutation","source":"PHB","permalink":"/spells/animate-objects/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Animate Objects

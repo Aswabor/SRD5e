@@ -1,21 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/spells/silence/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Cleric, Ranger,","spellLevel":2,"school":"Illusion","source":"PHB","permalink":"/spells/silence/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Silence
+*A 2nd Level Illusion Spell.*
 
-*2nd-level illusion (ritual)*
+**Casting Time:** 1 Action
 
-**Casting Time:** 1 action
+**Range:** Point, 120 Feet
 
-**Range:** 120 feet
+**Components:** V S 
 
-**Components:** V, S
+**Duration:** Timed, 10 Minutes
 
-**Duration:** Concentration, up to 10 minutes
+For the duration, no sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are {@condition deafened} while entirely inside it. Casting a spell that includes a verbal component is impossible there.
 
-For the duration, no sound can be created within or pass through a 20-foot radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are deafened while entirely inside it. Casting a spell that includes a verbal component is impossible there.
-
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

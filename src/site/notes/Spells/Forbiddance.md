@@ -9,7 +9,7 @@
 
 **Range:** Point, Touch
 
-**Components:** V S 
+**Components:** V S M(a sprinkling of holy water, rare incense, and powdered ruby worth at least 1,000 gp)
 
 **Duration:** Timed, 1 Day
 

@@ -9,7 +9,7 @@
 
 **Range:** Point, Self
 
-**Components:** V S 
+**Components:** V S M(an object engraved with a symbol of the Outer Planes, worth at least 500 gp)
 
 **Duration:** Timed, 1 Minute
 

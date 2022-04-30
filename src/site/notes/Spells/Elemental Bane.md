@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Druid, Warlock, Wizard, Artificer (Revisited), Artificer,","spellLevel":4,"school":"Transmutation","source":"XGE","permalink":"/spells/elemental-bane/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Druid, Warlock, Wizard, Artificer,","spellLevel":4,"school":"Transmutation","source":"XGE","permalink":"/spells/elemental-bane/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Elemental Bane

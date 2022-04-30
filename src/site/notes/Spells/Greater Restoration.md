@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Cleric, Druid, Artificer (Revisited), Artificer,","spellLevel":5,"school":"Abjuration","source":"PHB","permalink":"/spells/greater-restoration/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Cleric, Druid, Artificer,","spellLevel":5,"school":"Abjuration","source":"PHB","permalink":"/spells/greater-restoration/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Greater Restoration
@@ -9,7 +9,7 @@
 
 **Range:** Point, Touch
 
-**Components:** V S 
+**Components:** V S M(diamond dust worth at least 100 gp, which the spell consumes)
 
 **Duration:** Instant
 

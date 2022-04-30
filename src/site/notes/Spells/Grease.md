@@ -1,23 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/spells/grease/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Wizard, Artificer (Revisited), Artificer,","spellLevel":1,"school":"Conjuration","source":"PHB","permalink":"/spells/grease/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Grease
+*A 1st Level Conjuration Spell.*
 
-*1st-level conjuration*
+**Casting Time:** 1 Action
 
-**Casting Time:** 1 action
+**Range:** Point, 60 Feet
 
-**Range:** 60 feet
+**Components:** V S M(a bit of pork rind or butter)
 
-**Components:** V, S, M (a bit of pork rind or butter)
+**Duration:** Timed, 1 Minute
 
-**Duration:** 1 minute
+Slick grease covers the ground in a 10-foot square centered on a point within range and turns it into {@quickref difficult terrain||3} for the duration.
 
-Slick grease covers the ground in a 10-foot square centered on a point within range and turns it into difficult terrain for the duration.
-
-When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or fall prone. A creature that enters the area or ends its turn there must also succeed on a Dexterity saving throw or fall prone.
-
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

@@ -9,7 +9,7 @@
 
 **Range:** Point, Self
 
-**Components:** V S 
+**Components:** V S M(a jade circlet worth at least 1,500 gp, which you must place on your head before you cast the spell)
 
 **Duration:** Timed, 1 Hour
 

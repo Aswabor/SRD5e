@@ -1,23 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/spells/detect-evil-and-good/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric, Paladin,","spellLevel":1,"school":"Divination","source":"PHB","permalink":"/spells/detect-evil-and-good/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Detect Evil and Good
+*A 1st Level Divination Spell.*
 
-*1st-level divination*
+**Casting Time:** 1 Action
 
-**Casting Time:** 1 action
+**Range:** Point, Self
 
-**Range:** Self
+**Components:** V S 
 
-**Components:** V, S
-
-**Duration:** Concentration, up to 10 minutes
+**Duration:** Timed, 10 Minutes
 
 For the duration, you know if there is an aberration, celestial, elemental, fey, fiend, or undead within 30 feet of you, as well as where the creature is located. Similarly, you know if there is a place or object within 30 feet of you that has been magically consecrated or desecrated.
 
-The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
-
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

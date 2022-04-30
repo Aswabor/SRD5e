@@ -9,7 +9,7 @@
 
 **Range:** Point, Touch
 
-**Components:** V S 
+**Components:** V S M(a sprinkle of holy water and diamonds worth at least 25,000 gp, which the spell consumes)
 
 **Duration:** Instant
 

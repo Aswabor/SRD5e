@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Wizard, Artificer (Revisited), Artificer,","spellLevel":1,"school":"Divination","source":"PHB","permalink":"/spells/identify/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Wizard, Artificer,","spellLevel":1,"school":"Divination","source":"PHB","permalink":"/spells/identify/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Identify
@@ -9,7 +9,7 @@
 
 **Range:** Point, Touch
 
-**Components:** V S 
+**Components:** V S M(a pearl worth at least 100 gp and an owl feather)
 
 **Duration:** Instant
 

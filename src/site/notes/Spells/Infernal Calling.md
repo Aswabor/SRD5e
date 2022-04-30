@@ -9,7 +9,7 @@
 
 **Range:** Point, 90 Feet
 
-**Components:** V S 
+**Components:** V S M(a ruby worth at least 999 gp)
 
 **Duration:** Timed, 1 Hour
 

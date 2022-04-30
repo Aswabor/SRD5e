@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric, Artificer (Revisited), Artificer,","spellLevel":0,"school":"Necromancy","source":"PHB","permalink":"/spells/spare-the-dying/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric, Artificer,","spellLevel":0,"school":"Necromancy","source":"PHB","permalink":"/spells/spare-the-dying/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Spare the Dying

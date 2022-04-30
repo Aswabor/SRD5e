@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Sorcerer, Wizard, Artificer (Revisited), Artificer,","spellLevel":5,"school":"Illusion","source":"PHB","permalink":"/spells/creation/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Sorcerer, Wizard, Artificer,","spellLevel":5,"school":"Illusion","source":"PHB","permalink":"/spells/creation/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Creation

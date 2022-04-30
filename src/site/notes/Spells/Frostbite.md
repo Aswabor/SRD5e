@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Druid, Sorcerer, Warlock, Wizard, Artificer (Revisited), Artificer,","spellLevel":0,"school":"Evocation","source":"XGE","permalink":"/spells/frostbite/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Druid, Sorcerer, Warlock, Wizard, Artificer,","spellLevel":0,"school":"Evocation","source":"XGE","permalink":"/spells/frostbite/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Frostbite

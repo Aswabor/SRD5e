@@ -9,7 +9,7 @@
 
 **Range:** Point, 10 Feet
 
-**Components:** V S 
+**Components:** V S M(for each creature you affect with this spell, you must provide one jacinth worth at least 1,000 gp and one ornately carved bar of silver worth at least 100 gp, all of which the spell consumes)
 
 **Duration:** Special
 

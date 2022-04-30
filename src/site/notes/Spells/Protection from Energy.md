@@ -1,21 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/spells/protection-from-energy/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric, Druid, Ranger, Sorcerer, Wizard, Artificer, Artificer (Revisited), Artificer,","spellLevel":3,"school":"Abjuration","source":"PHB","permalink":"/spells/protection-from-energy/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Protection from Energy
+*A 3rd Level Abjuration Spell.*
 
-*3rd-level abjuration*
+**Casting Time:** 1 Action
 
-**Casting Time:** 1 action
+**Range:** Point, Touch
 
-**Range:** Touch
+**Components:** V S 
 
-**Components:** V, S
-
-**Duration:** Concentration, up to 1 hour
+**Duration:** Timed, 1 Hour
 
 For the duration, the willing creature you touch has resistance to one damage type of your choice: acid, cold, fire, lightning, or thunder.
 
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

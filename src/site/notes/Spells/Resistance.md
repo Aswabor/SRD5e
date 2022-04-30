@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric, Druid, Artificer (Revisited), Artificer,","spellLevel":0,"school":"Abjuration","source":"PHB","permalink":"/spells/resistance/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric, Druid, Artificer,","spellLevel":0,"school":"Abjuration","source":"PHB","permalink":"/spells/resistance/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Resistance

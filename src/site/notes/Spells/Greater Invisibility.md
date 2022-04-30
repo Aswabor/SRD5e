@@ -1,21 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/spells/greater-invisibility/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Sorcerer, Wizard,","spellLevel":4,"school":"Illusion","source":"PHB","permalink":"/spells/greater-invisibility/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Greater Invisibility
+*A 4th Level Illusion Spell.*
 
-*4th-level illusion*
+**Casting Time:** 1 Action
 
-**Casting Time:** 1 action
+**Range:** Point, Touch
 
-**Range:** Touch
+**Components:** V S 
 
-**Components:** V, S
+**Duration:** Timed, 1 Minute
 
-**Duration:** Concentration, up to 1 minute
+You or a creature you touch becomes {@condition invisible} until the spell ends. Anything the target is wearing or carrying is {@condition invisible} as long as it is on the target's person.
 
-You or a creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person.
-
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

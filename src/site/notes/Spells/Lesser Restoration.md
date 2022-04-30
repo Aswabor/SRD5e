@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Cleric, Druid, Paladin, Ranger, Artificer, Artificer (Revisited), Artificer,","spellLevel":2,"school":"Abjuration","source":"PHB","permalink":"/spells/lesser-restoration/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Cleric, Druid, Paladin, Ranger, Artificer,","spellLevel":2,"school":"Abjuration","source":"PHB","permalink":"/spells/lesser-restoration/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Lesser Restoration

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Druid, Ranger, Sorcerer, Wizard, Artificer, Artificer (Revisited), Artificer,","spellLevel":4,"school":"Abjuration","source":"PHB","permalink":"/spells/stoneskin/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Druid, Ranger, Sorcerer, Wizard, Artificer,","spellLevel":4,"school":"Abjuration","source":"PHB","permalink":"/spells/stoneskin/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Stoneskin
@@ -9,7 +9,7 @@
 
 **Range:** Point, Touch
 
-**Components:** V S 
+**Components:** V S M(diamond dust worth 100 gp, which the spell consumes)
 
 **Duration:** Timed, 1 Hour
 

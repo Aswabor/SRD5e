@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Druid, Sorcerer, Wizard, Artificer (Revisited), Artificer,","spellLevel":5,"school":"Evocation","source":"PHB","permalink":"/spells/wall-of-stone/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Druid, Sorcerer, Wizard, Artificer,","spellLevel":5,"school":"Evocation","source":"PHB","permalink":"/spells/wall-of-stone/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Wall of Stone

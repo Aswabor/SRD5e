@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric, Druid, Paladin, Ranger, Artificer, Artificer (Revisited), Artificer,","spellLevel":2,"school":"Abjuration","source":"PHB","permalink":"/spells/protection-from-poison/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric, Druid, Paladin, Ranger, Artificer,","spellLevel":2,"school":"Abjuration","source":"PHB","permalink":"/spells/protection-from-poison/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Protection from Poison

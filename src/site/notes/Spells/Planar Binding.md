@@ -9,7 +9,7 @@
 
 **Range:** Point, 60 Feet
 
-**Components:** V S 
+**Components:** V S M(a jewel worth at least 1,000 gp, which the spell consumes)
 
 **Duration:** Timed, 24 Hours
 

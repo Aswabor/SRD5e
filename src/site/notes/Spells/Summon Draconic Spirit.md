@@ -9,7 +9,7 @@
 
 **Range:** Point, 60 Feet
 
-**Components:** V S 
+**Components:** V S M(an object with the image of a dragon engraved on it, worth at least 500 gp)
 
 **Duration:** Timed, 1 Hour
 

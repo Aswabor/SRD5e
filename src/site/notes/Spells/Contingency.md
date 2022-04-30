@@ -9,7 +9,7 @@
 
 **Range:** Point, Self
 
-**Components:** V S 
+**Components:** V S M(a statuette of yourself carved from ivory and decorated with gems worth at least 1,500 gp)
 
 **Duration:** Timed, 10 Days
 

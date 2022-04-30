@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Wizard, Artificer, Artificer (Revisited), Artificer,","spellLevel":2,"school":"Abjuration","source":"PHB","permalink":"/spells/arcane-lock/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Wizard, Artificer,","spellLevel":2,"school":"Abjuration","source":"PHB","permalink":"/spells/arcane-lock/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Arcane Lock
@@ -9,7 +9,7 @@
 
 **Range:** Point, Touch
 
-**Components:** V S 
+**Components:** V S M(gold dust worth at least 25 gp, which the spell consumes)
 
 **Duration:** Permanent
 

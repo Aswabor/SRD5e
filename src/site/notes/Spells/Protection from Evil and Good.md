@@ -9,7 +9,7 @@
 
 **Range:** Point, Touch
 
-**Components:** V S 
+**Components:** V S M(holy water or powdered silver and iron, which the spell consumes)
 
 **Duration:** Timed, 10 Minutes
 

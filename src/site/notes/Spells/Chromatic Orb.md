@@ -9,7 +9,7 @@
 
 **Range:** Point, 90 Feet
 
-**Components:** V S 
+**Components:** V S M(a diamond worth at least 50 gp)
 
 **Duration:** Instant
 

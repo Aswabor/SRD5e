@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric, Wizard, Artificer, Artificer (Revisited), Artificer,","spellLevel":2,"school":"Evocation","source":"PHB","permalink":"/spells/continual-flame/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric, Wizard, Artificer,","spellLevel":2,"school":"Evocation","source":"PHB","permalink":"/spells/continual-flame/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Continual Flame
@@ -9,7 +9,7 @@
 
 **Range:** Point, Touch
 
-**Components:** V S 
+**Components:** V S M(ruby dust worth 50 gp, which the spell consumes)
 
 **Duration:** Permanent
 

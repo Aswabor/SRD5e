@@ -1,21 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/spells/resistance/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric, Druid, Artificer (Revisited), Artificer,","spellLevel":0,"school":"Abjuration","source":"PHB","permalink":"/spells/resistance/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Resistance
+*A Abjuration Cantrip.*
 
-*Abjuration cantrip*
+**Casting Time:** 1 Action
 
-**Casting Time:** 1 action
+**Range:** Point, Touch
 
-**Range:** Touch
+**Components:** V S M(a miniature cloak)
 
-**Components:** V, S, M (a miniature cloak)
+**Duration:** Timed, 1 Minute
 
-**Duration:** Concentration, up to 1 minute
+You touch one willing creature. Once before the spell ends, the target can roll a {@dice d4} and add the number rolled to one saving throw of its choice. It can roll the die before or after making the saving throw. The spell then ends.
 
-You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one saving throw of its choice. It can roll the die before or after making the saving throw. The spell then ends.
-
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

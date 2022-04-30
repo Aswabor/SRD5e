@@ -14,7 +14,7 @@
 
 ***Creature Type.*** You are a Fey.
 
-***Fairy Magic.*** You know the [[Spells/Druidcraft|Druidcraft]] cantrip. Starting at 3rd level, you can cast the [[Spells/Faerie Fire|Faerie Fire]] spell with this trait. Starting at 5th level, you can also cast the [[Spells/Enlarge slash Reduce|enlarge/reduce]] spell with this trait. Once you cast [[Spells/Faerie Fire|faerie fire]] [[Spells/Enlarge slash Reduce|enlarge/reduce]] with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
+***Fairy Magic.*** You know the [[Spells/Druidcraft|Druidcraft]] cantrip. Starting at 3rd level, you can cast the [[Spells/Faerie Fire|Faerie Fire]] spell with this trait. Starting at 5th level, you can also cast the [[Enlarge slash Reduce|enlarge/reduce]] spell with this trait. Once you cast [[Spells/Faerie Fire|faerie fire]] [[Enlarge slash Reduce|enlarge/reduce]] with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 

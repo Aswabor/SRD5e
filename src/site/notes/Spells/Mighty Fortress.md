@@ -9,7 +9,7 @@
 
 **Range:** Point, 1 Miles
 
-**Components:** V S 
+**Components:** V S M(a diamond worth at least 500 gp, which the spell consumes)
 
 **Duration:** Instant
 

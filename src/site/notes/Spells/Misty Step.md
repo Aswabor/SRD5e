@@ -1,21 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/spells/misty-step/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Sorcerer, Warlock, Wizard,","spellLevel":2,"school":"Conjuration","source":"PHB","permalink":"/spells/misty-step/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Misty Step
+*A 2nd Level Conjuration Spell.*
 
-*2nd-level conjuration*
+**Casting Time:** 1 Bonus
 
-**Casting Time:** 1 bonus action
+**Range:** Point, Self
 
-**Range:** Self
+**Components:** V 
 
-**Components:** V
-
-**Duration:** Instantaneous
+**Duration:** Instant
 
 Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see.
 
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

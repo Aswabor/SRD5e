@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Druid, Ranger, Sorcerer, Wizard, Artificer (Revisited), Artificer,","spellLevel":1,"school":"Abjuration","source":"XGE","permalink":"/spells/absorb-elements/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Druid, Ranger, Sorcerer, Wizard, Artificer,","spellLevel":1,"school":"Abjuration","source":"XGE","permalink":"/spells/absorb-elements/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Absorb Elements

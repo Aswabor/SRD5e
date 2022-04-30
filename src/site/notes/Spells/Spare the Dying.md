@@ -1,21 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/spells/spare-the-dying/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric, Artificer (Revisited), Artificer,","spellLevel":0,"school":"Necromancy","source":"PHB","permalink":"/spells/spare-the-dying/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Spare the Dying
+*A Necromancy Cantrip.*
 
-*Necromancy cantrip*
+**Casting Time:** 1 Action
 
-**Casting Time:** 1 action
+**Range:** Point, Touch
 
-**Range:** Touch
+**Components:** V S 
 
-**Components:** V, S
-
-**Duration:** Instantaneous
+**Duration:** Instant
 
 You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs.
 
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

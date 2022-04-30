@@ -1,21 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/spells/true-seeing/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Cleric, Sorcerer, Warlock, Wizard,","spellLevel":6,"school":"Divination","source":"PHB","permalink":"/spells/true-seeing/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # True Seeing
+*A 6th Level Divination Spell.*
 
-*6th-level divination*
+**Casting Time:** 1 Action
 
-**Casting Time:** 1 action
+**Range:** Point, Touch
 
-**Range:** Touch
+**Components:** V S 
 
-**Components:** V, S, M (an ointment for the eyes that costs 25 gp; is made from mushroom powder, saffron, and fat; and is consumed by the spell)
+**Duration:** Timed, 1 Hour
 
-**Duration:** 1 hour
+This spell gives the willing creature you touch the ability to see things as they actually are. For the duration, the creature has {@sense truesight}, notices secret doors hidden by magic, and can see into the Ethereal Plane, all out to a range of 120 feet.
 
-This spell gives the willing creature you touch the ability to see things as they actually are. For the duration, the creature has truesight, notices secret doors hidden by magic, and can see into the Ethereal Plane, all out to a range of 120 feet.
-
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

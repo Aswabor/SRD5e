@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Druid, Ranger, Wizard, Artificer, Artificer (Revisited), Artificer,","spellLevel":1,"school":"Transmutation","source":"PHB","permalink":"/spells/longstrider/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Druid, Ranger, Wizard, Artificer,","spellLevel":1,"school":"Transmutation","source":"PHB","permalink":"/spells/longstrider/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Longstrider

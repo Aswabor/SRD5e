@@ -1,21 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/spells/tongues/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Cleric, Sorcerer, Warlock, Wizard,","spellLevel":3,"school":"Divination","source":"PHB","permalink":"/spells/tongues/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Tongues
+*A 3rd Level Divination Spell.*
 
-*3rd-level divination*
+**Casting Time:** 1 Action
 
-**Casting Time:** 1 action
+**Range:** Point, Touch
 
-**Range:** Touch
+**Components:** V M(a small clay model of a ziggurat)
 
-**Components:** V, M (a small clay model of a ziggurat)
-
-**Duration:** 1 hour
+**Duration:** Timed, 1 Hour
 
 This spell grants the creature you touch the ability to understand any spoken language it hears. Moreover, when the target speaks, any creature that knows at least one language and can hear the target understands what it says.
 
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

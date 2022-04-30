@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Druid, Ranger, Sorcerer, Wizard, Artificer, Artificer (Revisited), Artificer,","spellLevel":1,"school":"Transmutation","source":"PHB","permalink":"/spells/jump/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Druid, Ranger, Sorcerer, Wizard, Artificer,","spellLevel":1,"school":"Transmutation","source":"PHB","permalink":"/spells/jump/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Jump

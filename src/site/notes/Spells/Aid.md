@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric, Paladin, Artificer, Artificer (Revisited), Artificer,","spellLevel":2,"school":"Abjuration","source":"PHB","permalink":"/spells/aid/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric, Paladin, Artificer,","spellLevel":2,"school":"Abjuration","source":"PHB","permalink":"/spells/aid/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Aid

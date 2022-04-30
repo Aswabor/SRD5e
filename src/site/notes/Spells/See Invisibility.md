@@ -1,21 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/spells/see-invisibility/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Bard, Sorcerer, Wizard, Artificer (Revisited), Artificer,","spellLevel":2,"school":"Divination","source":"PHB","permalink":"/spells/see-invisibility/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # See Invisibility
+*A 2nd Level Divination Spell.*
 
-*2nd-level divination*
+**Casting Time:** 1 Action
 
-**Casting Time:** 1 action
+**Range:** Point, Self
 
-**Range:** Self
+**Components:** V S M(a pinch of talc and a small sprinkling of powdered silver)
 
-**Components:** V, S, M (a pinch of talc and a small sprinkling of powdered silver)
+**Duration:** Timed, 1 Hour
 
-**Duration:** 1 hour
+For the duration, you see {@condition invisible} creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.
 
-For the duration, you see invisible creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.
-
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

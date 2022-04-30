@@ -1,23 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/spells/protection-from-poison/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Cleric, Druid, Paladin, Ranger, Artificer, Artificer (Revisited), Artificer,","spellLevel":2,"school":"Abjuration","source":"PHB","permalink":"/spells/protection-from-poison/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
 # Protection from Poison
+*A 2nd Level Abjuration Spell.*
 
-*2nd-level abjuration*
+**Casting Time:** 1 Action
 
-**Casting Time:** 1 action
+**Range:** Point, Touch
 
-**Range:** Touch
+**Components:** V S 
 
-**Components:** V, S
+**Duration:** Timed, 1 Hour
 
-**Duration:** 1 hour
+You touch a creature. If it is {@condition poisoned}, you neutralize the poison. If more than one poison afflicts the target, you neutralize one poison that you know is present, or you neutralize one at random.
 
-You touch a creature. If it is poisoned, you neutralize the poison. If more than one poison afflicts the target, you neutralize one poison that you know is present, or you neutralize one at random.
-
-For the duration, the target has advantage on saving throws against being poisoned, and it has resistance to poison damage.
-
-
-[[Spells/Spells|Spells]]
+[[Spellcasting/Spells|Spells]]

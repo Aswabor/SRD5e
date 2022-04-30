@@ -9,7 +9,7 @@
 
 **Range:** Point, 90 Feet
 
-**Components:** V S 
+**Components:** V S M(humanoid blood inside a ruby vial worth at least 600 gp)
 
 **Duration:** Timed, 1 Hour
 

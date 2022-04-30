@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Wizard, Artificer, Artificer (Revisited), Artificer,","spellLevel":4,"school":"Conjuration","source":"PHB","permalink":"/spells/mordenkainen-s-faithful-hound/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Wizard, Artificer,","spellLevel":4,"school":"Conjuration","source":"PHB","permalink":"/spells/mordenkainen-s-faithful-hound/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Mordenkainen's Faithful Hound

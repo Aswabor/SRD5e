@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Druid, Sorcerer, Warlock, Wizard, Artificer (Revisited), Artificer,","spellLevel":0,"school":"Conjuration","source":"XGE","permalink":"/spells/create-bonfire/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":null,"tags":null,"done":true,"classes":"Druid, Sorcerer, Warlock, Wizard, Artificer,","spellLevel":0,"school":"Conjuration","source":"XGE","permalink":"/spells/create-bonfire/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Create Bonfire

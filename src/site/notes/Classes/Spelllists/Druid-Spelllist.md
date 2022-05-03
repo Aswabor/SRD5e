@@ -3,6 +3,7 @@
 ---
 
 [[Classes/Druid|Druid]]
+[[Spellcasting/Spells|Spells]]
 # Druid
 - [[Spells/Absorb Elements|Absorb Elements]]
 - [[Spells/Animal Friendship|Animal Friendship]]

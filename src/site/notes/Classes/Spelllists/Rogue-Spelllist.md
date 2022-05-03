@@ -3,4 +3,5 @@
 ---
 
 [[Classes/Rogue|Rogue]]
+[[Spellcasting/Spells|Spells]]
 # Rogue

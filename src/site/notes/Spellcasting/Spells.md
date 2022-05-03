@@ -4,6 +4,22 @@
 
 [[DnD-5E-SRD|DnD-5E-SRD]]
 # Spells
+## Class Specific Spelllists
+- [[Classes/Spelllists/Artificer-Spelllist|Artificer-Spelllist]]
+- [[Classes/Spelllists/Barbarian-Spelllist|Barbarian-Spelllist]]
+- [[Classes/Spelllists/Bard-Spelllist|Bard-Spelllist]]
+- [[Classes/Spelllists/Cleric-Spelllist|Cleric-Spelllist]]
+- [[Classes/Spelllists/Druid-Spelllist|Druid-Spelllist]]
+- [[Classes/Spelllists/Fighter-Spelllist|Fighter-Spelllist]]
+- [[Classes/Spelllists/Monk-Spelllist|Monk-Spelllist]]
+- [[Classes/Spelllists/Paladin-Spelllist|Paladin-Spelllist]]
+- [[Classes/Spelllists/Ranger-Spelllist|Ranger-Spelllist]]
+- [[Classes/Spelllists/Rogue-Spelllist|Rogue-Spelllist]]
+- [[Classes/Spelllists/Sorcerer-Spelllist|Sorcerer-Spelllist]]
+- [[Classes/Spelllists/Warlock-Spelllist|Warlock-Spelllist]]
+- [[Classes/Spelllists/Wizard-Spelllist|Wizard-Spelllist]]
+
+## A-Z
 - [[Spells/Absorb Elements|Absorb Elements]]
 - [[Spells/Abi-Dalzim's Horrid Wilting|Abi-Dalzim's Horrid Wilting]]
 - [[Spells/Acid Splash|Acid Splash]]

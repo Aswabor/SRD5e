@@ -3,6 +3,7 @@
 ---
 
 [[Classes/Bard|Bard]]
+[[Spellcasting/Spells|Spells]]
 # Bard
 - [[Spells/Animal Friendship|Animal Friendship]]
 - [[Spells/Animal Messenger|Animal Messenger]]

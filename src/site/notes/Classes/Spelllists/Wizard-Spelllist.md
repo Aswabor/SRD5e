@@ -3,6 +3,7 @@
 ---
 
 [[Classes/Wizard|Wizard]]
+[[Spellcasting/Spells|Spells]]
 # Wizard
 - [[Spells/Absorb Elements|Absorb Elements]]
 - [[Spells/Abi-Dalzim's Horrid Wilting|Abi-Dalzim's Horrid Wilting]]

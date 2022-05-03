@@ -3,6 +3,7 @@
 ---
 
 [[Classes/Artificer|Artificer]]
+[[Spellcasting/Spells|Spells]]
 # Artificer
 - [[Spells/Absorb Elements|Absorb Elements]]
 - [[Spells/Acid Splash|Acid Splash]]

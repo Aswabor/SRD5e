@@ -3,4 +3,5 @@
 ---
 
 [[Classes/Fighter|Fighter]]
+[[Spellcasting/Spells|Spells]]
 # Fighter

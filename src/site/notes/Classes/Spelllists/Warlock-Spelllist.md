@@ -3,6 +3,7 @@
 ---
 
 [[Classes/Warlock|Warlock]]
+[[Spellcasting/Spells|Spells]]
 # Warlock
 - [[Spells/Arcane Gate|Arcane Gate]]
 - [[Spells/Armor of Agathys|Armor of Agathys]]

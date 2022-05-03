@@ -3,5 +3,6 @@
 ---
 
 [[Classes/Monk|Monk]]
+[[Spellcasting/Spells|Spells]]
 # Monk
 - [[Spells/Astral Projection|Astral Projection]]

@@ -3,6 +3,7 @@
 ---
 
 [[Classes/Ranger|Ranger]]
+[[Spellcasting/Spells|Spells]]
 # Ranger
 - [[Spells/Absorb Elements|Absorb Elements]]
 - [[Spells/Alarm|Alarm]]

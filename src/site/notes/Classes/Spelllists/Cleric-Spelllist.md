@@ -3,6 +3,7 @@
 ---
 
 [[Classes/Cleric|Cleric]]
+[[Spellcasting/Spells|Spells]]
 # Cleric
 - [[Spells/Aid|Aid]]
 - [[Spells/Animate Dead|Animate Dead]]

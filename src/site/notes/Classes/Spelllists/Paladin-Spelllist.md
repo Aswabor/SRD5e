@@ -3,6 +3,7 @@
 ---
 
 [[Classes/Paladin|Paladin]]
+[[Spellcasting/Spells|Spells]]
 # Paladin
 - [[Spells/Aid|Aid]]
 - [[Spells/Aura of Life|Aura of Life]]

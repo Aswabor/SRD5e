@@ -3,4 +3,5 @@
 ---
 
 [[Classes/Barbarian|Barbarian]]
+[[Spellcasting/Spells|Spells]]
 # Barbarian
